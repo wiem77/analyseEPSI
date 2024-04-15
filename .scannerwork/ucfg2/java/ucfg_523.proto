@@ -1,0 +1,88 @@
+
+Dcom.simplecity.amp_library.playback.MediaManager#getQueuePosition()Iz
+n/C:/Users/User/analyseEPSI/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/playback/MediaManager.javað ð("4*¬
+2
+ò ò(.½
+º
+
+ò ò(<5
+%5/com.simplecity.amp_library.playback.LocalBinder"__id*o
+
+__unknown_file (S*Q>
+<com.simplecity.amp_library.utils.MusicServiceConnectionUtils"
+serviceBinderÄÁ
+
+ò ò(I
+%6"Jcom.simplecity.amp_library.playback.LocalBinder#getService()LMusicService;*S
+
+__unknown_file (7
+5
+%5/com.simplecity.amp_library.playback.LocalBinder2getService()"
+
+ò ò(]
+""*­
+3
+ñA ñ(\½
+º
+
+ñA ñ(j5
+%2/com.simplecity.amp_library.playback.LocalBinder"__id*o
+
+__unknown_file (S*Q>
+<com.simplecity.amp_library.utils.MusicServiceConnectionUtils"
+serviceBinderÄÁ
+
+ñA ñ(w
+%3"Jcom.simplecity.amp_library.playback.LocalBinder#getService()LMusicService;*S
+
+__unknown_file (7
+5
+%2/com.simplecity.amp_library.playback.LocalBinder2getService()Œ
+‰
+
+ñA ñ(
+%4"	__compare*"
+
+__unknown_file (
+!=*"
+
+__unknown_file (
+
+%3*"
+
+__unknown_file (
+""*
+2
+1* 
+4
+ñ ñ('½
+º
+
+ñ ñ(55
+%0/com.simplecity.amp_library.playback.LocalBinder"__id*o
+
+__unknown_file (S*Q>
+<com.simplecity.amp_library.utils.MusicServiceConnectionUtils"
+serviceBinderÆ
+Ã
+
+ñ ñ(=
+%1boolean"	__compare*"
+
+__unknown_file (
+!=*S
+
+__unknown_file (7
+5
+%0/com.simplecity.amp_library.playback.LocalBinder*"
+
+__unknown_file (
+""*
+3
+1*%
+1
+ô ô("
+
+ô ô(
+""B42
+0com.simplecity.amp_library.playback.MediaManagerHX

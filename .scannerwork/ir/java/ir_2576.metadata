@@ -1,0 +1,5 @@
+com.simplecity.amp_library.glide.fetcher.TypeFetcher#loadData(LPriority;)Ljava/io/InputStream;
+null
+com.simplecity.amp_library.glide.fetcher.RemoteFetcher#<init>(LArtworkProvider;)V
+com.simplecity.amp_library.glide.fetcher.TypeFetcher#loadData(LDataFetcher;LPriority;)Ljava/io/InputStream;
+com.simplecity.amp_library.glide.fetcher.RemoteFetcher#instance-init#
