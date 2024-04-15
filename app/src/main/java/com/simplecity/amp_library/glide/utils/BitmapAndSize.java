@@ -3,30 +3,25 @@ package com.simplecity.amp_library.glide.utils;
 import android.graphics.Bitmap;
 
 public class BitmapAndSize {
-
     private Bitmap bitmap;
-    private Size size;
+    private final Size size;
 
-   
-
-    public void setSize(Size Size) {
-        this.Size = Size;
-    }
-
-    public Size getSize() {
-        return Size;
-    }
-    public Bitmap getBitmap() {
-        return bitmap;
-    }
-    public void setBitmap(Bitmap bitmap) {
-        this.bitmap = bitmap;
-    }
     public BitmapAndSize(Bitmap bitmap, Size size) {
         this.bitmap = bitmap;
         this.size = size;
     }
 
+    public Bitmap getBitmap() {
+        return bitmap;
+    }
+
+    public void setBitmap(Bitmap bitmap) {
+        this.bitmap = bitmap;
+    }
+
+    public Size getSize() {
+        return size;
+    }
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
