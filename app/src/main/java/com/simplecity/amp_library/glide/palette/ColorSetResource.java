@@ -21,7 +21,11 @@ public class ColorSetResource implements Resource<ColorSet> {
     }
 
     @Override
+   
     public void recycle() {
-
+        // Cette méthode est vide car son implémentation est spécifique à chaque classe concrète.
+        // Elle doit être remplacée ou étendue dans les sous-classes selon les besoins.
+        throw new UnsupportedOperationException("Recycle method is not implemented.");
     }
+    
 }

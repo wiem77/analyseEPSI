@@ -1,7 +1,7 @@
 organization=wiem77
 projectKey=wiem77_analyseepsi
 serverUrl=https://sonarcloud.io
-serverVersion=8.0.0.53820
+serverVersion=8.0.0.53909
 dashboardUrl=https://sonarcloud.io/dashboard?id=wiem77_analyseepsi
-ceTaskId=AY7iN6jlFfGB9raI5eKU
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AY7iN6jlFfGB9raI5eKU
+ceTaskId=AY8J2CNMpYkmDA99HOL5
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AY8J2CNMpYkmDA99HOL5
