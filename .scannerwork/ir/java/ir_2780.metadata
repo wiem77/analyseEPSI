@@ -1,2 +1,1 @@
-com.simplecity.amp_library.ui.views.BreadcrumbView#<init>(LContext;)V
-com.simplecity.amp_library.ui.views.BreadcrumbView#init()V
+com.simplecityapps.recycler_adapter.recyclerview.BaseViewHolder#onDetachedFromWindow()V

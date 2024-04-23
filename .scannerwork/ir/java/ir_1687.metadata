@@ -1,3 +1,2 @@
-com.simplecity.amp_library.model.Song#getQuery()LQuery;
+com.simplecity.amp_library.model.Song#getPlayCount(LContext;)I
 null
-com.simplecity.amp_library.model.Song#getProjection()[Ljava/lang/String;

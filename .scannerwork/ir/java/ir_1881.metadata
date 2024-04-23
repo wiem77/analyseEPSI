@@ -1,1 +1,2 @@
-com.simplecity.amp_library.utils.SleepTimer#getCurrentTimeObservable()LFlowable;
+com.simplecity.amp_library.utils.SleepTimer#getDialog(LContext;LUnsafeAction;LUnsafeAction;)LMaterialDialog;
+null

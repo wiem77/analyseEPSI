@@ -1,3 +1,2 @@
-com.simplecity.amp_library.playback.QueueManager#notifyQueueChanged()V
-==
-saveQueue com.simplecity.amp_library.playback.QueueManager#saveQueue(Z)V
+com.simplecity.amp_library.playback.QueueManager#instance-init#
+java.util.ArrayList#<init>()V

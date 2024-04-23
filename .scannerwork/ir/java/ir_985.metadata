@@ -1,1 +1,1 @@
-com.simplecity.amp_library.playback.MusicService#openEqualizerSession(ZI)V
+com.simplecity.amp_library.playback.MusicService#moveQueueItem(II)V

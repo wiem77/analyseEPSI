@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.modelviews.TabViewModel#instance-init#
+com.simplecity.amp_library.ui.modelviews.EmptyView#bindView(Lcom/simplecity/amp_library/ui/modelviews/EmptyView$ViewHolder;)V
+null

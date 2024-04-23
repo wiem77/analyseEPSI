@@ -1,2 +1,1 @@
-android.support.design.widget.CustomCollapsingTextHelper#setExpansionFraction(F)V
-android.support.design.widget.CustomCollapsingTextHelper#calculateCurrentOffsets()V
+android.support.design.widget.CustomCollapsingTextHelper#getExpansionFraction()F

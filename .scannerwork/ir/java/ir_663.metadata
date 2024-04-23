@@ -1,1 +1,1 @@
-com.simplecity.amp_library.utils.SettingsManager#keepScreenOn()Z
+com.simplecity.amp_library.utils.SettingsManager#<init>(LSharedPreferences;)V

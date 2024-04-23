@@ -1,3 +1,1 @@
-com.simplecity.amp_library.model.Album#getSortKey()Ljava/lang/String;
-==
-setSortKey com.simplecity.amp_library.model.Album#setSortKey()V
+com.simplecity.amp_library.model.Album#toString()Ljava/lang/String;

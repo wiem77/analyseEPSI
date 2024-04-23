@@ -1,1 +1,3 @@
-com.afollestad.aesthetic.AutoSwitchMode#<init>()V
+com.simplecity.amp_library.ui.modelviews.TabViewModel#createViewHolder(LViewGroup;)Lcom/simplecity/amp_library/ui/modelviews/TabViewModel$ViewHolder;
+com.simplecity.amp_library.ui.modelviews.TabViewModel$ViewHolder#instance-init#
+com.simplecity.amp_library.ui.modelviews.TabViewModel$ViewHolder#<init>(LView;)V

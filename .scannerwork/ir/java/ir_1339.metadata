@@ -1,1 +1,1 @@
-com.simplecity.amp_library.utils.sorting.SortManager#getAlbumsSortOrder()I
+com.simplecity.amp_library.utils.sorting.SortManager#getSongsSortOrder()I

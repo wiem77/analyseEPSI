@@ -1,4 +1,1 @@
-com.simplecity.amp_library.utils.LogUtils#logException(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Throwable;)V
-==
-printStackTrace java.lang.Throwable#printStackTrace()V
-getMessage java.lang.Throwable#getMessage()Ljava/lang/String;
+com.simplecity.amp_library.utils.LogUtils#instance-init#

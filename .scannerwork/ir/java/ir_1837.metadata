@@ -1,3 +1,1 @@
-com.simplecity.amp_library.playback.PlaybackManager#closeEqualizerSessions(ZI)V
-==
-closeEqualizerSessions com.simplecity.amp_library.services.Equalizer#closeEqualizerSessions(ZI)V
+com.simplecity.amp_library.playback.PlaybackManager#load(Ljava/util/List;ILjava/lang/Boolean;J)V

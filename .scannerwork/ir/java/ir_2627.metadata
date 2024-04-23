@@ -1,1 +1,2 @@
-com.afollestad.aesthetic.AestheticActionMenuItemView#onDetachedFromWindow()V
+com.afollestad.aesthetic.AestheticActionMenuItemView#setIcon(LDrawable;LColorStateList;)V
+com.afollestad.aesthetic.TintHelper#createTintedDrawable(LDrawable;LColorStateList;)LDrawable;

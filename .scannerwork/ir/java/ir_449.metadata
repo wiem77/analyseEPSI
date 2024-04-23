@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.views.CircleImageView#setColorFilter(LColorFilter;)V
+com.simplecity.amp_library.ui.views.CircleImageView#setBorderWidth(I)V
+com.simplecity.amp_library.ui.views.CircleImageView#setup()V

@@ -1,1 +1,1 @@
-com.simplecityapps.recycler_adapter.adapter.CompletionListUpdateCallbackAdapter#onChanged(IILjava/lang/Object;)V
+com.simplecity.amp_library.glide.preloader.RecyclerViewPreloader#onScrolled(LRecyclerView;II)V

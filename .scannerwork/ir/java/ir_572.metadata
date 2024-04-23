@@ -1,2 +1,1 @@
-com.simplecity.amp_library.model.Album#getFolderArtwork()Ljava/io/InputStream;
-com.simplecity.amp_library.model.Album#getArtworkPath()Ljava/lang/String;
+com.simplecity.amp_library.model.Album#getMediaStoreArtwork(LContext;)Ljava/io/InputStream;

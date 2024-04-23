@@ -1,2 +1,1 @@
-com.simplecity.amp_library.glide.loader.TypeLoader#getResourceFetcher(LArtworkProvider;II)LDataFetcher;
-null
+com.simplecity.amp_library.glide.loader.TypeLoader#instance-init#

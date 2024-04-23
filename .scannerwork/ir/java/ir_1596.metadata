@@ -1,2 +1,1 @@
-com.afollestad.aesthetic.AestheticListView#onAttachedToWindow()V
-com.afollestad.aesthetic.Aesthetic#get(LContext;)Lcom/afollestad/aesthetic/Aesthetic;
+com.simplecityapps.recycler_adapter.recyclerview.RecyclerListener#onViewRecycled(LRecyclerView/ViewHolder;)V

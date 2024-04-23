@@ -1,2 +1,2 @@
+com.simplecity.amp_library.model.Album#getArtworkKey()Ljava/lang/String;
 com.simplecity.amp_library.model.Album#setArtworkKey()V
-java.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;

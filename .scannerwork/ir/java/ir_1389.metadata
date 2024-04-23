@@ -1,1 +1,2 @@
-com.afollestad.aesthetic.Util#setNavBarColorCompat(LAppCompatActivity;I)V
+com.afollestad.aesthetic.Util#adjustAlpha(IF)I
+java.lang.Math#round(F)I

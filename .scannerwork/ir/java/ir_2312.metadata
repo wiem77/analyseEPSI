@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.screens.widgets.WidgetFragment#screenName()Ljava/lang/String;
+com.simplecity.amp_library.ui.screens.widgets.WidgetFragment#onCreateView(LLayoutInflater;LViewGroup;LBundle;)LView;
+null

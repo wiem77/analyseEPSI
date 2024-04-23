@@ -1,65 +1,20 @@
 
-Ccom.simplecity.amp_library.model.Query#toString()Ljava/lang/String;n
-d/C:/Users/User/analyseEPSI/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/model/Query.java? ?("1*≥
-1@ @(^
-\
-@ A(
-%0java.lang.String"__concat*
-@ @(
-
-Query{*
-A A(
-
-\nuri=Ö
-Ç
-B2 B(<
-%1java.lang.String[]"__id*V
+^com.simplecity.amp_library.model.Query$Builder#build()Lcom/simplecity/amp_library/model/Query;n
+d/C:/Users/User/analyseEPSI/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/model/Query.java9 9("1*¡
+1: :(!b`
+: :(,
+%0&com.simplecity.amp_library.model.Query"&com.simplecity.amp_library.model.Queryë
+é
+: :("
+%1"`com.simplecity.amp_library.model.Query#<init>(Lcom/simplecity/amp_library/model/Query$Builder;)V*J
 
-__unknown_file (:*8(
-&com.simplecity.amp_library.model.Query"
-
-projection—
-Œ
-B" B(=
-%2java.lang.String"@java.util.Arrays#toString([Ljava/lang/Object;)Ljava/lang/String;*0
+__unknown_file (.
+,
+%0&com.simplecity.amp_library.model.Query*N
 
-__unknown_file ("
-java.util.Arrays*6
-
-__unknown_file (
-
-%1java.lang.String[]Å
-
-C" C(+
-%3java.lang.String"__id*U
-
-__unknown_file (9*7(
-&com.simplecity.amp_library.model.Query"
-	selection~
-|
-D, D(0
-%4java.lang.String[]"__id*P
-
-__unknown_file (4*2(
-&com.simplecity.amp_library.model.Query"
-args—
-Œ
-D D(1
-%5java.lang.String"@java.util.Arrays#toString([Ljava/lang/Object;)Ljava/lang/String;*0
-
-__unknown_file ("
-java.util.Arrays*6
-
-__unknown_file (
-
-%4java.lang.String[]|
-z
-E E(!
-%6java.lang.String"__id*P
-
-__unknown_file (4*2(
-&com.simplecity.amp_library.model.Query"
-sort"
-@ F(
-""B*(
-&com.simplecity.amp_library.model.QueryH
+__unknown_file (20
+.com.simplecity.amp_library.model.Query$Builder":
+: :(#.
+,
+%0&com.simplecity.amp_library.model.QueryB20
+.com.simplecity.amp_library.model.Query$BuilderH

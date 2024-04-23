@@ -1,1 +1,1 @@
-com.simplecity.amp_library.utils.ViewUtils#instance-init#
+com.simplecity.amp_library.ui.views.SizableSeekBar#getThumb()LDrawable;

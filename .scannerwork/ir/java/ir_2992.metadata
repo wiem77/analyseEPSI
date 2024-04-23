@@ -1,1 +1,1 @@
-com.simplecity.amp_library.utils.FileBrowser#folderCountComparator()Ljava/util/Comparator;
+com.simplecity.amp_library.utils.FileBrowser#filenameComparator()Ljava/util/Comparator;

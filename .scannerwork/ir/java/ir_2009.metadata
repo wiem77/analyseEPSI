@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.adapters.RobotoSpinnerAdapter#getView(ILView;LViewGroup;)LView;
+com.afollestad.aesthetic.AestheticSwitch#<init>(LContext;LAttributeSet;)V
+com.afollestad.aesthetic.AestheticSwitch#init(LContext;LAttributeSet;)V

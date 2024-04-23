@@ -1,1 +1,2 @@
-com.simplecity.amp_library.model.Playlist#<init>(IJLjava/lang/String;ZZZZZ)V
+com.simplecity.amp_library.model.Playlist#getQuery()LQuery;
+null

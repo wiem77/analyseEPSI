@@ -1,2 +1,1 @@
-com.simplecity.amp_library.ui.screens.main.LibraryController#onCreate(LBundle;)V
-null
+com.simplecity.amp_library.ui.screens.main.LibraryController#onDestroyView()V

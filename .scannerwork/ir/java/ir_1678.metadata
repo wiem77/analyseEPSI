@@ -1,1 +1,3 @@
-com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#logDiffResult(LDiffUtil/DiffResult;)V
+com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#removeItem(I)LViewModel;
+==
+getItemCount com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#getItemCount()I

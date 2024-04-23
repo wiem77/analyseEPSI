@@ -1,1 +1,1 @@
-com.afollestad.aesthetic.AestheticDrawerLayout#<init>(LContext;LAttributeSet;)V
+com.afollestad.aesthetic.AestheticDrawerLayout#onDetachedFromWindow()V

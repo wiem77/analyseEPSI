@@ -1,2 +1,2 @@
-com.simplecity.amp_library.ui.modelviews.AlbumArtistView#areContentsEqual(Ljava/lang/Object;)Z
-java.util.Arrays#equals([C[C)Z
+com.simplecity.amp_library.ui.modelviews.AlbumArtistView#equals(Ljava/lang/Object;)Z
+java.lang.Object#getClass()Ljava/lang/Class;

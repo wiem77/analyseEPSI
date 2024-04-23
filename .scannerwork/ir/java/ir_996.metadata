@@ -1,4 +1,2 @@
-com.simplecity.amp_library.playback.MusicService#onQueueChanged()V
-==
-isPlaying com.simplecity.amp_library.playback.MusicService#isPlaying()Z
-setNextTrack com.simplecity.amp_library.playback.MusicService#setNextTrack()V
+com.simplecity.amp_library.playback.MusicService#getPebbleIntent(LSong;)LIntent;
+null

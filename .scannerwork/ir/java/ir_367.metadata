@@ -1,1 +1,2 @@
-test.com.androidnavigation.fragment.FragmentInfo#describeContents()I
+test.com.androidnavigation.fragment.FragmentInfo#<init>(LParcel;)V
+java.lang.Class#getClassLoader()Ljava/lang/ClassLoader;

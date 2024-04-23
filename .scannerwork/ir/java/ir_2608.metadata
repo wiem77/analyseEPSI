@@ -1,5 +1,3 @@
-com.simplecity.amp_library.ui.modelviews.FolderView#onCheckboxClick(LCheckBox;)V
+com.simplecity.amp_library.ui.modelviews.FolderView#onClick(I)V
 ==
-onFileObjectCheckboxClick com.simplecity.amp_library.ui.modelviews.FolderView$ClickListener#onFileObjectCheckboxClick(LCheckBox;Lcom/simplecity/amp_library/ui/modelviews/FolderView;)V
-setWhitelisted com.simplecity.amp_library.ui.modelviews.FolderView#setWhitelisted(LRepository/WhitelistRepository;Z)V
-setBlacklisted com.simplecity.amp_library.ui.modelviews.FolderView#setBlacklisted(LRepository/BlacklistRepository;Z)V
+onFileObjectClick com.simplecity.amp_library.ui.modelviews.FolderView$ClickListener#onFileObjectClick(ILcom/simplecity/amp_library/ui/modelviews/FolderView;)V

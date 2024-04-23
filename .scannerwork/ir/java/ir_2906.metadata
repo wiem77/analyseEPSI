@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment#showUpgradeDialog()V
+com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment#invalidateColors(LColorSet;)V
+null

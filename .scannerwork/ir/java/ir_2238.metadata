@@ -1,1 +1,3 @@
-com.simplecityapps.recycler_adapter.model.BaseViewModel#<init>()V
+com.simplecityapps.recycler_adapter.model.BaseViewModel#createView(LViewGroup;)LView;
+==
+getLayoutResId com.simplecityapps.recycler_adapter.model.BaseViewModel#getLayoutResId()I

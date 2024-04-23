@@ -1,5 +1,4 @@
-com.simplecity.amp_library.model.Song#getTrackNumberLabel()Ljava/lang/String;
-java.lang.String#valueOf([C)Ljava/lang/String;
-java.lang.String#valueOf(I)Ljava/lang/String;
+com.simplecity.amp_library.model.Song#getAlbumArtist()LAlbumArtist;
+null
 ==
-getTagInfo com.simplecity.amp_library.model.Song#getTagInfo()LTagInfo;
+getAlbum com.simplecity.amp_library.model.Song#getAlbum()LAlbum;

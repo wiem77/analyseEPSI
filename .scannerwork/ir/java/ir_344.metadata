@@ -1,1 +1,2 @@
-com.simplecity.amp_library.http.HttpClient#instance-init#
+com.simplecity.amp_library.sql.SqlUtils#createSingleQuery(LContext;LFunction;LQuery;)Ljava/lang/Object;
+com.simplecity.amp_library.sql.SqlUtils#createSingleQuery(LContext;LFunction;Ljava/lang/Object;LQuery;)Ljava/lang/Object;

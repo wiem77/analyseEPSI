@@ -1,4 +1,2 @@
-com.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#newInstance()Lcom/simplecity/amp_library/ui/screens/equalizer/EqualizerFragment;
+com.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#onMenuItemClick(LMenuItem;)Z
 null
-com.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#<init>()V
-com.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#instance-init#

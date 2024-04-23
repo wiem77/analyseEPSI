@@ -1,1 +1,1 @@
-com.afollestad.aesthetic.ColorIsDarkState#isDark()Z
+com.afollestad.aesthetic.ColorIsDarkState#creator()LBiFunction;

@@ -1,3 +1,2 @@
-com.simplecity.amp_library.services.Equalizer#release()V
-==
-releaseEffects com.simplecity.amp_library.services.Equalizer#releaseEffects()V
+com.simplecity.amp_library.services.Equalizer#openEqualizerSession(ZI)V
+null

@@ -1,1 +1,1 @@
-com.simplecity.amp_library.playback.MusicService#getQueueReloading()Z
+com.simplecity.amp_library.playback.MusicService#getQueue()Ljava/util/List;

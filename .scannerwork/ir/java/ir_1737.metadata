@@ -1,1 +1,2 @@
-com.afollestad.aesthetic.AestheticCoordinatorLayout#<init>(LContext;LAttributeSet;I)V
+com.afollestad.aesthetic.AestheticCoordinatorLayout#invalidateColors()V
+com.afollestad.aesthetic.AestheticCoordinatorLayout#tintMenu(LAestheticToolbar;LMenu;LActiveInactiveColors;)V

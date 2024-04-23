@@ -1,3 +1,5 @@
-com.simplecity.amp_library.saf.SafManager#getInstance(LContext;LSettingsManager;)Lcom/simplecity/amp_library/saf/SafManager;
-com.simplecity.amp_library.saf.SafManager#<init>(LContext;LSettingsManager;)V
-com.simplecity.amp_library.saf.SafManager#instance-init#
+com.simplecity.amp_library.saf.SafManager#getWriteableDocumentFiles(Ljava/util/List;)Ljava/util/List;
+java.util.ArrayList#<init>()V
+==
+getDocumentTree com.simplecity.amp_library.saf.SafManager#getDocumentTree()Ljava/lang/String;
+getWriteableDocumentFile com.simplecity.amp_library.saf.SafManager#getWriteableDocumentFile(Ljava/io/File;)LDocumentFile;

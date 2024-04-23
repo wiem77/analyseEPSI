@@ -1,3 +1,4 @@
-com.simplecity.amp_library.model.Album#compareTo(Lcom/simplecity/amp_library/model/Album;)I
+com.simplecity.amp_library.model.Album#getArtworkPath()Ljava/lang/String;
 ==
-getSortKey com.simplecity.amp_library.model.Album#getSortKey()Ljava/lang/String;
+isEmpty java.util.List#isEmpty()Z
+get java.util.List#get(I)Ljava/lang/Object;

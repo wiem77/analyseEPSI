@@ -1,2 +1,1 @@
-com.simplecity.amp_library.ui.views.AestheticTintedImageView#getColorObservable()LObservable;
-com.afollestad.aesthetic.Aesthetic#get(LContext;)Lcom/afollestad/aesthetic/Aesthetic;
+com.afollestad.aesthetic.ViewBackgroundSubscriber#instance-init#

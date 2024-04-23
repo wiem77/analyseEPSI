@@ -1,1 +1,2 @@
-com.afollestad.aesthetic.ViewObservablePair#instance-init#
+com.afollestad.aesthetic.LightDarkColorState#color()I
+com.afollestad.aesthetic.LightDarkColorState#isDark()Z

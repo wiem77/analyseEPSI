@@ -1,1 +1,2 @@
-com.simplecity.amp_library.services.ArtworkDownloadService#onBind(LIntent;)LIBinder;
+com.simplecity.amp_library.services.ArtworkDownloadService#updateProgress()V
+com.simplecity.amp_library.services.ArtworkDownloadService#getNotificationBuilder()LNotificationCompat/Builder;

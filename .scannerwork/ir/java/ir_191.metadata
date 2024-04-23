@@ -1,1 +1,2 @@
-android.support.design.widget.CustomCollapsingToolbarLayout#isToolbarChildDrawnNext(LView;)Z
+android.support.design.widget.CustomCollapsingToolbarLayout#onMeasure(II)V
+android.support.design.widget.CustomCollapsingToolbarLayout#ensureToolbar()V

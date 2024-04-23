@@ -400,13 +400,12 @@ public class CustomCollapsingToolbarLayout extends FrameLayout {
             final int insetTop = mLastInsets.getSystemWindowInsetTop();
             for (int i = 0, z = getChildCount(); i < z; i++) {
                 final View child = getChildAt(i);
-                if (!ViewCompat.getFitsSystemWindows(child)) {
-                    if (child.getTop() < insetTop) {
-                        // If the child isn't set to fit system windows but is drawing within
-                        // the inset offset it down
-                        ViewCompat.offsetTopAndBottom(child, insetTop);
-                    }
+                if (!ViewCompat.getFitsSystemWindows(child) && child.getTop() < insetTop) {
+                    // Si la vue n'est pas définie pour s'adapter aux fenêtres système mais est dessinée à l'intérieur
+                    // de l'encoche, la décaler vers le bas
+                    ViewCompat.offsetTopAndBottom(child, insetTop);
                 }
+                
             }
         }
 

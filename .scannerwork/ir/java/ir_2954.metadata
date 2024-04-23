@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.settings.SettingsPresenter#deleteArtwork()V
+com.simplecity.amp_library.ui.settings.SettingsPresenter#downloadArtwork(LContext;)V
+null

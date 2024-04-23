@@ -1,1 +1,2 @@
-android.support.design.widget.CustomCollapsingTextHelper#getExpandedTextSize()F
+android.support.design.widget.CustomCollapsingTextHelper#setCollapsedTextSize(F)V
+android.support.design.widget.CustomCollapsingTextHelper#recalculate()V

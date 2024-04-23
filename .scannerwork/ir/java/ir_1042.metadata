@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ShuttleApplication#setIsUpgraded(Z)V
+com.simplecity.amp_library.ShuttleApplication#repairMediaStoreYearFromTags()LCompletable;
+java.util.Collections#emptyList()Ljava/util/List;

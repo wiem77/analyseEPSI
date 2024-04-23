@@ -1,1 +1,1 @@
-com.simplecity.amp_library.playback.MusicService#removeQueueItems(Ljava/util/List;)V
+com.simplecity.amp_library.playback.MusicService#getQueueReloading()Z

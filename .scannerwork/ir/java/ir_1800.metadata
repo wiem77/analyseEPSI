@@ -1,2 +1,3 @@
-com.simplecity.amp_library.utils.ResourceUtils#getScreenSize()LSize;
-null
+com.simplecity.amp_library.ui.modelviews.HorizontalRecyclerView#getCount()I
+==
+getItemCount com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#getItemCount()I

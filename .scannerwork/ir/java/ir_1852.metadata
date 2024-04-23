@@ -1,1 +1,2 @@
-com.simplecity.amp_library.playback.PlaybackManager#getAudioSessionId()I
+com.simplecity.amp_library.playback.PlaybackManager#updateLastPlayedTime()V
+java.lang.System#currentTimeMillis()J

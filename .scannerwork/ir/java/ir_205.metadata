@@ -1,4 +1,1 @@
-android.support.design.widget.CustomCollapsingToolbarLayout#setContentScrimColor(I)V
-null
-==
-setContentScrim android.support.design.widget.CustomCollapsingToolbarLayout#setContentScrim(LDrawable;)V
+android.support.design.widget.CustomCollapsingToolbarLayout#setContentScrim(LDrawable;)V

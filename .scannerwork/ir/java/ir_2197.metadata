@@ -1,1 +1,1 @@
-test.com.androidnavigation.fragment.BaseNavigationController#onPause()V
+test.com.androidnavigation.fragment.BaseNavigationController#popViewController()V

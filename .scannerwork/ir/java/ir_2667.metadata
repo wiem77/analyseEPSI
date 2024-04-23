@@ -1,9 +1,5 @@
-com.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#equalizerBandUpdate(II)V
+com.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#updateUI()V
 java.lang.String#valueOf(I)Ljava/lang/String;
-java.lang.StringBuilder#instance-init#
-java.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;
-java.lang.StringBuilder#<init>()V
-java.lang.StringBuilder#deleteCharAt(I)Ljava/lang/StringBuilder;
-java.lang.StringBuilder#toString()Ljava/lang/String;
-==
-length java.lang.AbstractStringBuilder#length()I
+java.lang.Integer#valueOf(Ljava/lang/String;)Ljava/lang/Integer;
+com.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#equalizerUpdateDisplay()V
+com.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#setupPresets()V

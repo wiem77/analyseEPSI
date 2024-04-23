@@ -1,5 +1,1 @@
-com.simplecity.amp_library.ui.modelviews.LoadingView#createViewHolder(LViewGroup;)Lcom/simplecity/amp_library/ui/modelviews/LoadingView$ViewHolder;
-com.simplecity.amp_library.ui.modelviews.LoadingView$ViewHolder#<init>(LView;)V
-com.simplecity.amp_library.ui.modelviews.LoadingView$ViewHolder#instance-init#
-==
-createView com.simplecityapps.recycler_adapter.model.BaseViewModel#createView(LViewGroup;)LView;
+com.simplecity.amp_library.ui.modelviews.LoadingView#getViewType()I

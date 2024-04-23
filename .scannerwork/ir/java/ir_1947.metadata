@@ -1,1 +1,1 @@
-com.afollestad.aesthetic.AestheticRecyclerView#<init>(LContext;)V
+com.afollestad.aesthetic.AestheticRecyclerView#onAttachedToWindow()V

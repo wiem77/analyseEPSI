@@ -1,6 +1,2 @@
-com.simplecity.amp_library.ui.screens.main.LibraryController#onResume()V
-null
-com.simplecity.amp_library.ui.views.multisheet.MultiSheetEventRelay$MultiSheetEvent#instance-init#
-com.simplecity.amp_library.ui.views.multisheet.MultiSheetEventRelay$MultiSheetEvent#<init>(II)V
-==
-sendEvent com.simplecity.amp_library.ui.views.multisheet.MultiSheetEventRelay#sendEvent(Lcom/simplecity/amp_library/ui/views/multisheet/MultiSheetEventRelay$MultiSheetEvent;)V
+com.simplecity.amp_library.ui.screens.main.LibraryController#onOptionsItemSelected(LMenuItem;)Z
+com.simplecity.amp_library.ui.screens.main.LibraryController#openSearch()V

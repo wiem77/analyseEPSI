@@ -1,1 +1,3 @@
-com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#addItem(ILViewModel;)V
+com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#removeItem(LViewModel;)LViewModel;
+==
+removeItem com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#removeItem(LViewModel;)LViewModel;

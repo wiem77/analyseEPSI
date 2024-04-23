@@ -1,1 +1,2 @@
-com.afollestad.aesthetic.AestheticSwitchCompat#onDetachedFromWindow()V
+com.afollestad.aesthetic.AestheticSwitchCompat#onAttachedToWindow()V
+com.afollestad.aesthetic.ColorIsDarkState#creator()LBiFunction;

@@ -1,3 +1,2 @@
-com.afollestad.aesthetic.AestheticSpinner#invalidateColors(Lcom/afollestad/aesthetic/ColorIsDarkState;)V
-com.afollestad.aesthetic.ColorIsDarkState#isDark()Z
-com.afollestad.aesthetic.ColorIsDarkState#color()I
+com.afollestad.aesthetic.AestheticSpinner#<init>(LContext;LAttributeSet;I)V
+com.afollestad.aesthetic.AestheticSpinner#init(LContext;LAttributeSet;)V

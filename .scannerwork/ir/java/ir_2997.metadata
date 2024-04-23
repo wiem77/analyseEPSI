@@ -1,3 +1,1 @@
-com.simplecity.amp_library.utils.FileBrowser#nullCompare(Ljava/lang/Comparable;Ljava/lang/Comparable;)I
-==
-compareTo java.lang.Comparable#compareTo(Ljava/lang/Object;)I
+com.simplecity.amp_library.utils.FileBrowser#albumNameComparator()Ljava/util/Comparator;

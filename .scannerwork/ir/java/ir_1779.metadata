@@ -1,1 +1,1 @@
-com.afollestad.aesthetic.AestheticSnackBarTextView#<init>(LContext;)V
+com.afollestad.aesthetic.AestheticSnackBarTextView#onDetachedFromWindow()V

@@ -1,1 +1,3 @@
-com.simplecity.amp_library.ui.screens.widgets.WidgetFragment#<init>()V
+com.simplecity.amp_library.utils.LetterDrawable#pickColor(Ljava/lang/String;)I
+java.lang.String#hashCode()I
+java.lang.Math#abs(I)I

@@ -1,1 +1,2 @@
-com.afollestad.aesthetic.AestheticSpinner#<init>(LContext;)V
+android.support.design.widget.CustomCollapsingTextHelper#setCollapsedSubColor(LColorStateList;)V
+android.support.design.widget.CustomCollapsingTextHelper#recalculate()V

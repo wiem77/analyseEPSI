@@ -1,4 +1,4 @@
-com.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#setupPresets()V
-null
-java.lang.Integer#parseInt(Ljava/lang/String;)I
-java.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V
+com.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#getBandLevelRange()[I
+java.lang.String#split(Ljava/lang/String;)[Ljava/lang/String;
+java.lang.Integer#valueOf(Ljava/lang/String;)Ljava/lang/Integer;
+java.lang.String#isEmpty()Z

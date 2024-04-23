@@ -1,1 +1,2 @@
-android.support.design.widget.CustomCollapsingTextHelper#getCollapsedTypeface()LTypeface;
+android.support.design.widget.CustomCollapsingTextHelper#setTypefaces(LTypeface;)V
+android.support.design.widget.CustomCollapsingTextHelper#recalculate()V

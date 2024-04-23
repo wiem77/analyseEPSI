@@ -1,1 +1,3 @@
-test.com.androidnavigation.fragment.BaseNavigationController#<init>()V
+test.com.androidnavigation.fragment.BaseNavigationController#addRootFragment()V
+==
+getRootViewControllerInfo test.com.androidnavigation.fragment.BaseNavigationController#getRootViewControllerInfo()LFragmentInfo;

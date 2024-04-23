@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity#<init>()V
+com.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity#searchAndPlaySongs()V
+java.util.Collections#emptyList()Ljava/util/List;

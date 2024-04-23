@@ -1,2 +1,3 @@
+com.afollestad.aesthetic.Aesthetic#get(LContext;)Lcom/afollestad/aesthetic/Aesthetic;
 com.afollestad.aesthetic.Aesthetic#<init>(LContext;)V
-null
+com.afollestad.aesthetic.Aesthetic#instance-init#

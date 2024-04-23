@@ -1,2 +1,2 @@
-com.simplecity.amp_library.ui.common.BaseActivity#onPremiumPurchaseCompleted()V
+com.simplecity.amp_library.ui.common.BaseActivity#onServiceConnected(LComponentName;LIBinder;)V
 null

@@ -1,2 +1,2 @@
-com.simplecity.amp_library.ui.screens.folders.FolderFragment#onFileObjectOverflowClick(LView;LFolderView;)V
+com.simplecity.amp_library.ui.screens.folders.FolderFragment#setupContextualToolbar()V
 null

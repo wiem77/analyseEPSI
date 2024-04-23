@@ -1,1 +1,1 @@
-com.simplecity.amp_library.ShuttleApplication#getRefWatcher()LRefWatcher;
+com.simplecity.amp_library.ShuttleApplication#cleanMostPlayedPlaylist()LCompletable;

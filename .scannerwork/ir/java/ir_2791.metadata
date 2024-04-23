@@ -1,5 +1,7 @@
+com.simplecity.amp_library.ui.views.BreadcrumbView#changeBreadcrumbPath(Ljava/lang/String;)V
+java.io.File#<init>(Ljava/lang/String;)V
+java.lang.String#split(Ljava/lang/String;)[Ljava/lang/String;
+com.simplecity.amp_library.ui.views.BreadcrumbView#createFile([Ljava/lang/String;I)Ljava/io/File;
 com.simplecity.amp_library.ui.views.BreadcrumbView#createBreadcrumbItem(Ljava/io/File;)LBreadcrumbItem;
-java.lang.String#length()I
-==
-getName java.io.File#getName()Ljava/lang/String;
-getPath java.io.File#getPath()Ljava/lang/String;
+java.io.File#instance-init#
+com.simplecity.amp_library.ui.views.BreadcrumbView#createItemDivider()LImageView;

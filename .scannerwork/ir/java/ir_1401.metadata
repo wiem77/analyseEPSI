@@ -1,1 +1,2 @@
-com.afollestad.aesthetic.Util#getRootView(LActivity;)LViewGroup;
+com.simplecity.amp_library.sql.legacy.WhitelistFolder#hashCode()I
+java.lang.String#hashCode()I

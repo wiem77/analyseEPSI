@@ -1,3 +1,2 @@
-com.simplecity.amp_library.ui.settings.SettingsParentFragment#onResume()V
-==
-onResume test.com.androidnavigation.fragment.BaseNavigationController#onResume()V
+com.simplecity.amp_library.ui.settings.SettingsParentFragment#getRootViewControllerInfo()LFragmentInfo;
+com.simplecity.amp_library.ui.settings.SettingsParentFragment$SettingsFragment#getFragmentInfo(I)LFragmentInfo;

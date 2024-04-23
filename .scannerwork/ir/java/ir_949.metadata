@@ -1,1 +1,2 @@
-com.simplecity.amp_library.playback.MusicService#enqueue(Ljava/util/List;I)V
+com.simplecity.amp_library.playback.MusicService#registerExternalStorageListener()V
+null

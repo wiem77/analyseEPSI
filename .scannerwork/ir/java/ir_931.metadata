@@ -1,2 +1,1 @@
-com.simplecity.amp_library.glide.palette.ColorSetTranscoder#transcode(LResource;)LResource;
-null
+com.simplecity.amp_library.glide.palette.ColorSetTranscoder#instance-init#

@@ -1,40 +1,53 @@
 
-=com.simplecity.amp_library.playback.MediaManager#isPlaying()Zz
-n/C:/Users/User/analyseEPSI/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/playback/MediaManager.javaƒ ƒ("5*¡
-2„† „(¡¿
-¼
-„† „(¯5
+Pcom.simplecity.amp_library.playback.MediaManager#getFilePath()Ljava/lang/String;x
+n/C:/Users/User/analyseEPSI/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/playback/MediaManager.javay y("5*!
+2} }("
+} }(!
+""*¥
+3{ {(3»
+¸
+{ {(A5
 %5/com.simplecity.amp_library.playback.LocalBinder"__id*o
 
 __unknown_file (S*Q>
 <com.simplecity.amp_library.utils.MusicServiceConnectionUtils"
-serviceBinderÆÃ
-„† „(¼
+serviceBinderÂ¿
+{ {(N
 %6"Jcom.simplecity.amp_library.playback.LocalBinder#getService()LMusicService;*S
 
 __unknown_file (7
 5
-%5/com.simplecity.amp_library.playback.LocalBinder2getService()*
-1*®
-4
-„D „(_½
-º
-
-„D „(m5
+%5/com.simplecity.amp_library.playback.LocalBinder2getService()Š
+‡
+| |(
+%7"	__compare*"
+
+__unknown_file (
+!=*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+2
+1*¥
+4zA z(\»
+¸
+zA z(j5
 %2/com.simplecity.amp_library.playback.LocalBinder"__id*o
 
 __unknown_file (S*Q>
 <com.simplecity.amp_library.utils.MusicServiceConnectionUtils"
-serviceBinderÄÁ
-
-„D „(z
+serviceBinderÂ¿
+zA z(w
 %3"Jcom.simplecity.amp_library.playback.LocalBinder#getService()LMusicService;*S
 
 __unknown_file (7
 5
-%2/com.simplecity.amp_library.playback.LocalBinder2getService()
-Š
-„D „(‚
+%2/com.simplecity.amp_library.playback.LocalBinder2getService()Š
+‡
+zA z(
 %4"	__compare*"
 
 __unknown_file (
@@ -46,21 +59,18 @@ n/C:/Users/User/analyseEPSI/Shuttle-dev/app/src/main/java/com/simplecity/amp_lib
 
 __unknown_file (
 ""*
-2
-1*£
-5
-„ „(*½
-º
-
-„ „(85
+3
+1*š
+5z z('»
+¸
+z z(55
 %0/com.simplecity.amp_library.playback.LocalBinder"__id*o
 
 __unknown_file (S*Q>
 <com.simplecity.amp_library.utils.MusicServiceConnectionUtils"
-serviceBinderÆ
-Ã
-
-„ „(@
+serviceBinderÄ
+Á
+z z(=
 %1boolean"	__compare*"
 
 __unknown_file (
@@ -71,13 +81,12 @@ n/C:/Users/User/analyseEPSI/Shuttle-dev/app/src/main/java/com/simplecity/amp_lib
 %0/com.simplecity.amp_library.playback.LocalBinder*"
 
 __unknown_file (
-""*	
-2
+""*
 4
 1*%
 1
-„ …("
+€ €("
 
-„ …(
+€ €(
 ""B42
-0com.simplecity.amp_library.playback.MediaManagerHX
+0com.simplecity.amp_library.playback.MediaManagerH

@@ -1,4 +1,2 @@
-com.simplecity.amp_library.playback.MusicService#instance-init#
+com.simplecity.amp_library.glide.palette.ColorSetTranscoder#transcode(LResource;)LResource;
 null
-com.simplecity.amp_library.playback.MusicService$MusicServiceCallbacks#<init>(Lcom/simplecity/amp_library/playback/MusicService;)V
-com.simplecity.amp_library.playback.MusicService$MusicServiceCallbacks#instance-init#

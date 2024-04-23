@@ -1,3 +1,2 @@
-com.afollestad.aesthetic.AestheticSwitch#onAttachedToWindow()V
-com.afollestad.aesthetic.Rx#onErrorLogAndRethrow()LConsumer;
-com.afollestad.aesthetic.Rx#distinctToMainThread()LObservableTransformer;
+com.simplecity.amp_library.utils.ColorUtils#adjustAlpha(IF)I
+java.lang.Math#round(F)I

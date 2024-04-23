@@ -1,1 +1,1 @@
-com.simplecity.amp_library.playback.MusicService#gotoNext(Z)V
+com.simplecity.amp_library.playback.MusicService#recentlyPlayed()Z

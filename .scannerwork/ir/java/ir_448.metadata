@@ -1,2 +1,1 @@
-com.simplecity.amp_library.ui.views.CircleImageView#setBorderWidth(I)V
-com.simplecity.amp_library.ui.views.CircleImageView#setup()V
+com.simplecity.amp_library.ui.views.CircleImageView#getBorderWidth()I

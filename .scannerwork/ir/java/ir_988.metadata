@@ -1,1 +1,1 @@
-com.simplecity.amp_library.playback.MusicService#cancelShutdown()V
+com.simplecity.amp_library.playback.MusicService#updateEqualizer()V

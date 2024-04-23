@@ -1,1 +1,1 @@
-com.simplecity.amp_library.glide.fetcher.TypeFetcher#cleanup()V
+com.simplecity.amp_library.glide.fetcher.TypeFetcher#<init>(LContext;LArtworkProvider;ILjava/io/File;)V

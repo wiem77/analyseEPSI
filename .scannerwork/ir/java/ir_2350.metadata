@@ -1,6 +1,3 @@
-com.simplecity.amp_library.playback.QueueManager#load(Ljava/util/List;ILcom/simplecity/amp_library/rx/UnsafeAction;)V
-com.simplecity.amp_library.playback.QueueManager#notifyMetaChanged()V
-com.simplecity.amp_library.playback.QueueManager#notifyQueueChanged()V
+com.simplecity.amp_library.playback.QueueManager#setRepeatMode(I)V
 ==
-run com.simplecity.amp_library.rx.UnsafeAction#run()V
-makeShuffleList com.simplecity.amp_library.playback.QueueManager#makeShuffleList()V
+saveQueue com.simplecity.amp_library.playback.QueueManager#saveQueue(Z)V

@@ -1,3 +1,1 @@
-com.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity#onServiceConnected(LComponentName;LIBinder;)V
-==
-updateWidgetUI com.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity#updateWidgetUI()V
+com.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity#onPageScrollStateChanged(I)V

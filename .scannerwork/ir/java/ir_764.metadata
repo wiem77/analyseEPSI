@@ -1,1 +1,1 @@
-com.simplecity.amp_library.http.lastfm.LastFmTrack#<init>()V
+com.simplecity.amp_library.playback.NotificationStateHandler#handleMessage(LMessage;)V

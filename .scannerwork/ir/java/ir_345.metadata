@@ -1,3 +1,1 @@
-com.simplecity.amp_library.http.HttpClient#getInstance()Lcom/simplecity/amp_library/http/HttpClient;
-com.simplecity.amp_library.http.HttpClient#<init>()V
 com.simplecity.amp_library.http.HttpClient#instance-init#

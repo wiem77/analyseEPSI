@@ -1,2 +1,2 @@
-com.simplecity.amp_library.ui.screens.lyrics.QuickLyricUtils#canDownloadQuickLyric(LContext;)Z
-com.simplecity.amp_library.ui.screens.lyrics.QuickLyricUtils#getQuickLyricIntent()LIntent;
+com.simplecity.amp_library.ui.screens.lyrics.QuickLyricUtils#getLyricsFor(LContext;LSong;)V
+null

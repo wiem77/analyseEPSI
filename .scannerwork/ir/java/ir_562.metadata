@@ -1,4 +1,3 @@
-com.simplecity.amp_library.model.Album#<init>(JLjava/lang/String;Ljava/util/List;Ljava/lang/String;IIIJJLjava/util/List;I)V
-com.simplecity.amp_library.model.Album#setArtworkKey()V
-==
-setSortKey com.simplecity.amp_library.model.Album#setSortKey()V
+com.simplecity.amp_library.model.Album#instance-init#
+java.util.ArrayList#<init>()V
+java.util.ArrayList#instance-init#

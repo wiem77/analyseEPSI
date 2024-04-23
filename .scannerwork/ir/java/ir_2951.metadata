@@ -1,2 +1,1 @@
-com.simplecity.amp_library.ui.settings.SettingsPresenter#downloadArtworkClicked(LContext;)V
-null
+com.simplecity.amp_library.ui.settings.SettingsPresenter#usePaletteClicked(LContext;Z)V

@@ -1,1 +1,2 @@
-com.simplecity.amp_library.playback.constants.ServiceCommand#<init>()V
+com.simplecity.amp_library.glide.fetcher.RemoteFetcher#<init>(LArtworkProvider;)V
+null

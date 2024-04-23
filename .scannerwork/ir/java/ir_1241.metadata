@@ -1,3 +1,2 @@
-com.afollestad.aesthetic.Aesthetic#snackbarActionTextColorRes(I)Lcom/afollestad/aesthetic/Aesthetic;
-==
-colorCardViewBackground com.afollestad.aesthetic.Aesthetic#colorCardViewBackground(I)Lcom/afollestad/aesthetic/Aesthetic;
+com.simplecity.amp_library.http.lastfm.LastFmUtils#getBestImageUrl(Ljava/util/List;)Ljava/lang/String;
+com.simplecity.amp_library.http.lastfm.LastFmUtils#findSize(Ljava/util/List;Ljava/lang/String;)LLastFmImage;

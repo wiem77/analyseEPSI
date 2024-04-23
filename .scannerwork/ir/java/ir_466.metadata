@@ -1,4 +1,5 @@
-com.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity#onProgressChanged(LSeekBar;IZ)V
+com.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity#onClick(LView;)V
+null
 ==
-getRegisteredFragment com.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity$WidgetPagerAdapter#getRegisteredFragment(I)LFragment;
 getRootViewId com.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity#getRootViewId()I
+getUpdateCommandString com.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity#getUpdateCommandString()Ljava/lang/String;

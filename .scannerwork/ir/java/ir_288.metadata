@@ -1,2 +1,1 @@
-com.simplecity.amp_library.ui.dialog.DeleteDialog#getSongs()LSingle;
-java.util.Collections#emptyList()Ljava/util/List;
+com.simplecity.amp_library.ui.dialog.DeleteDialog#onSaveInstanceState(LBundle;)V

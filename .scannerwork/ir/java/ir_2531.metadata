@@ -1,3 +1,2 @@
-com.simplecity.amp_library.ui.screens.drawer.DrawerParent#getPlaylistsParent(LSettingsManager;)Lcom/simplecity/amp_library/ui/screens/drawer/DrawerParent;
-com.simplecity.amp_library.ui.screens.drawer.DrawerParent#<init>(IIILNavigationEventRelay/NavigationEvent;ZLSettingsManager;)V
 com.simplecity.amp_library.ui.screens.drawer.DrawerParent#instance-init#
+java.util.ArrayList#<init>()V

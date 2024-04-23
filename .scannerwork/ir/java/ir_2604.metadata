@@ -1,1 +1,1 @@
-com.simplecity.amp_library.ui.modelviews.FolderView#setShowWhitelist(Z)V
+com.simplecity.amp_library.ui.modelviews.FolderView#<init>(Lcom/simplecity/amp_library/model/BaseFileObject;LRepository/WhitelistRepository;LRepository/BlacklistRepository;LSettingsManager;ZZ)V

@@ -1,3 +1,4 @@
-com.simplecity.amp_library.ui.modelviews.AlbumArtistView#createViewHolder(LViewGroup;)Lcom/simplecity/amp_library/ui/modelviews/AlbumArtistView$ViewHolder;
-com.simplecity.amp_library.ui.modelviews.AlbumArtistView$ViewHolder#instance-init#
-com.simplecity.amp_library.ui.modelviews.AlbumArtistView$ViewHolder#<init>(LView;)V
+com.simplecity.amp_library.ui.modelviews.AlbumArtistView#bindView(Lcom/simplecity/amp_library/ui/modelviews/AlbumArtistView$ViewHolder;)V
+java.lang.String#valueOf([C)Ljava/lang/String;
+==
+getViewType com.simplecity.amp_library.ui.modelviews.AlbumArtistView#getViewType()I

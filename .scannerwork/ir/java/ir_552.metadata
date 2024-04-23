@@ -1,5 +1,2 @@
+com.simplecity.amp_library.utils.CustomMediaScanner#onScanCompleted(Ljava/lang/String;LUri;)V
 com.simplecity.amp_library.utils.CustomMediaScanner#scanNextPath()V
-com.simplecity.amp_library.utils.CustomMediaScanner#scanComplete(LContext;)V
-==
-get java.util.List#get(I)Ljava/lang/Object;
-size java.util.List#size()I

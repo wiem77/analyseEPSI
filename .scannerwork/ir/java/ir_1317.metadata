@@ -1,2 +1,2 @@
-com.simplecity.amp_library.ui.screens.main.MainController#onResume()V
-null
+com.simplecity.amp_library.ui.screens.main.MainController#getRootViewControllerInfo()LFragmentInfo;
+com.simplecity.amp_library.ui.screens.main.LibraryController#fragmentInfo()LFragmentInfo;

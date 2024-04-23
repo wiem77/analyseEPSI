@@ -1,1 +1,2 @@
 com.simplecity.amp_library.glide.utils.Size#<init>(II)V
+com.simplecity.amp_library.glide.utils.Size#setDimensions(II)V

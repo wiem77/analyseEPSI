@@ -1,2 +1,2 @@
-com.simplecity.amp_library.utils.color.ColorHelper#calculateContrast(II)D
-com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#calculateContrast(II)D
+com.simplecity.amp_library.utils.color.ColorHelper#calculateLuminance(I)D
+com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#calculateLuminance(I)D

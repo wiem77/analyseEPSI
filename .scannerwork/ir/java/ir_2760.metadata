@@ -1,3 +1,4 @@
-com.simplecity.amp_library.utils.ContextualToolbarHelper#getItems()Ljava/util/List;
-null
-java.util.ArrayList#instance-init#
+com.simplecity.amp_library.utils.ContextualToolbarHelper#handleClick(LSelectableViewModel;Ljava/lang/Object;)Z
+com.simplecity.amp_library.utils.ContextualToolbarHelper#addOrRemoveItem(LSelectableViewModel;Ljava/lang/Object;)V
+==
+notifyItemChanged com.simplecity.amp_library.utils.ContextualToolbarHelper$Callback#notifyItemChanged(LSelectableViewModel;)V

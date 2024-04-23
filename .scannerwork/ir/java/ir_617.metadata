@@ -1,3 +1,2 @@
-android.support.design.widget.CustomCollapsingTextHelper#setState([I)Z
+android.support.design.widget.CustomCollapsingTextHelper#setExpandedTypeface(LTypeface;)V
 android.support.design.widget.CustomCollapsingTextHelper#recalculate()V
-android.support.design.widget.CustomCollapsingTextHelper#isStateful()Z

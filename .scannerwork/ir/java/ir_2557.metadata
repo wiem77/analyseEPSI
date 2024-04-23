@@ -1,3 +1,1 @@
-com.simplecity.amp_library.ui.modelviews.GenreView#getSectionName()Ljava/lang/String;
-java.lang.String#toUpperCase()Ljava/lang/String;
-java.lang.String#substring(II)Ljava/lang/String;
+com.simplecity.amp_library.ui.modelviews.GenreView#bindView(Lcom/simplecity/amp_library/ui/modelviews/GenreView$ViewHolder;)V

@@ -1,1 +1,3 @@
-com.simplecity.amp_library.saf.SafManager#<init>(LContext;LSettingsManager;)V
+com.simplecity.amp_library.saf.SafManager#getWriteableDocumentFile(Ljava/io/File;)LDocumentFile;
+==
+getDocumentFile com.simplecity.amp_library.saf.SafManager#getDocumentFile(Ljava/io/File;)LDocumentFile;

@@ -1,1 +1,2 @@
-android.support.design.widget.CustomCollapsingTextHelper#getCollapsedTextGravity()I
+android.support.design.widget.CustomCollapsingTextHelper#setExpandedTextGravity(I)V
+android.support.design.widget.CustomCollapsingTextHelper#recalculate()V

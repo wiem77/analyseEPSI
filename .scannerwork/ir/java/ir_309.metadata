@@ -1,1 +1,1 @@
-com.afollestad.aesthetic.AestheticProgressBar#onDetachedFromWindow()V
+com.afollestad.aesthetic.AestheticProgressBar#onAttachedToWindow()V

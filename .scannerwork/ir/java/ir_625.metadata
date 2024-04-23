@@ -1,2 +1,2 @@
-android.support.design.widget.CustomCollapsingTextHelper#calculateCurrentOffsets()V
-android.support.design.widget.CustomCollapsingTextHelper#calculateOffsets(F)V
+android.support.design.widget.CustomCollapsingTextHelper#setExpandedTextSize(F)V
+android.support.design.widget.CustomCollapsingTextHelper#recalculate()V

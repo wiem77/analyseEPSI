@@ -1,25 +1,28 @@
 
-Ccom.simplecity.amp_library.utils.color.ColorHelper#isColorLight(I)Z|
-p/C:/Users/User/analyseEPSI/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.javaÙ Ù("1*§
+Mcom.simplecity.amp_library.utils.color.ColorHelper#satisfiesTextContrast(II)Z|
+p/C:/Users/User/analyseEPSI/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.javaÕ Õ(0"1*Ì
 1
-Ú Ú(!à
-Ý
+Ö Ö(„
+
 
-Ú Ú(2
-%0double"Icom.simplecity.amp_library.utils.color.ColorHelper#calculateLuminance(I)D*R
+Ö Ö(N
+%0double"Icom.simplecity.amp_library.utils.color.ColorHelper#calculateContrast(II)D*R
 
 __unknown_file (6"4
 2com.simplecity.amp_library.utils.color.ColorHelper*"
 
 __unknown_file (
-""œ
-™
-
-Ú Ú(9
-%1boolean"	__compare*!
+""*"
 
-__unknown_file (
->**
+__unknown_file (
+""
+š
+
+Ö Ö(U
+%1boolean"	__compare*"
+
+__unknown_file (
+>=**
 
 __unknown_file (
 
@@ -28,7 +31,10 @@ p/C:/Users/User/analyseEPSI/Shuttle-dev/app/src/main/java/com/simplecity/amp_lib
 __unknown_file (
 """
 
-Ú Ú(:
+Ö Ö(V
+"": 
+
+__unknown_file (
 "": 
 
 __unknown_file (

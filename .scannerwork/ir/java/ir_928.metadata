@@ -1,1 +1,1 @@
-com.afollestad.aesthetic.AestheticTextView#onDetachedFromWindow()V
+com.afollestad.aesthetic.AestheticTextView#init(LContext;LAttributeSet;)V

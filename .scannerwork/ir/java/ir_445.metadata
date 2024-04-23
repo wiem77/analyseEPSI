@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.views.CircleImageView#getBorderColor()I
+com.simplecity.amp_library.ui.views.CircleImageView#onSizeChanged(IIII)V
+com.simplecity.amp_library.ui.views.CircleImageView#setup()V

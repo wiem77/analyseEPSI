@@ -1,1 +1,2 @@
-com.simplecity.amp_library.utils.PermissionUtils#<init>()V
+com.simplecity.amp_library.utils.ListUtils#emptyIfNull(Ljava/util/List;)Ljava/util/List;
+java.util.Collections#emptyList()Ljava/util/List;

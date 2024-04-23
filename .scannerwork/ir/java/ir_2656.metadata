@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#<init>()V
+com.simplecity.amp_library.ui.screens.lyrics.QuickLyricUtils#getSpannedString(LContext;)LSpannable;
+null

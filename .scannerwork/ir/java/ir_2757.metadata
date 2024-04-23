@@ -1,4 +1,3 @@
-com.simplecity.amp_library.utils.ContextualToolbarHelper#addOrRemoveItem(LSelectableViewModel;Ljava/lang/Object;)V
-com.simplecity.amp_library.utils.ContextualToolbarHelper#updateCount()V
+com.simplecity.amp_library.utils.ContextualToolbarHelper#finish()V
 ==
-finish com.simplecity.amp_library.utils.ContextualToolbarHelper#finish()V
+notifyDatasetChanged com.simplecity.amp_library.utils.ContextualToolbarHelper$Callback#notifyDatasetChanged()V

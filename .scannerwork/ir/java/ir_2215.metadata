@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.widgets.WidgetConfigureActivitySmall#getRootViewId()I
+com.afollestad.aesthetic.AestheticTextInputEditText#<init>(LContext;LAttributeSet;)V
+com.afollestad.aesthetic.AestheticTextInputEditText#init(LContext;LAttributeSet;)V

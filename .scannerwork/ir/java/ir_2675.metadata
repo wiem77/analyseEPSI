@@ -1,3 +1,1 @@
-com.simplecity.amp_library.playback.MediaSessionManager#<init>(LContext;LQueueManager;LPlaybackManager;LPlaybackSettingsManager;LSettingsManager;LRepository/SongsRepository;LRepository/AlbumsRepository;LRepository/AlbumArtistsRepository;LRepository/GenresRepository;LRepository/PlaylistsRepository;)V
-null
-java.lang.Class#getName()Ljava/lang/String;
+com.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#screenName()Ljava/lang/String;

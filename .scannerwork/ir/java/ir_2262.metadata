@@ -1,1 +1,1 @@
-com.afollestad.aesthetic.ViewHintTextColorAction#accept(Ljava/lang/Integer;)V
+com.afollestad.aesthetic.ViewHintTextColorAction#<init>(LTextView;)V

@@ -1,1 +1,1 @@
-com.simplecity.amp_library.ui.views.DragGripView#onDetachedFromWindow()V
+com.simplecity.amp_library.ui.widgets.WidgetConfigureActivityMedium#getLayoutIdString()Ljava/lang/String;

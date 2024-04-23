@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.views.CircleImageView#getScaleType()LScaleType;
+com.simplecity.amp_library.ui.views.CircleImageView#init()V
+com.simplecity.amp_library.ui.views.CircleImageView#setup()V

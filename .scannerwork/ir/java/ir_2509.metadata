@@ -1,3 +1,1 @@
-com.simplecity.amp_library.cast.CastManager#<init>(LContext;LPlaybackManager;)V
-com.simplecity.amp_library.cast.CastManager$CastSessionManagerListener#<init>(Lcom/simplecity/amp_library/cast/CastManager;)V
-com.simplecity.amp_library.cast.CastManager$CastSessionManagerListener#instance-init#
+com.simplecityapps.recycler_adapter.adapter.CompletionListUpdateCallback#<init>()V

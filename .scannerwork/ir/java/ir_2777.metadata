@@ -1,1 +1,1 @@
-com.simplecityapps.recycler_adapter.recyclerview.BaseViewHolder#onAttachedToWindow()V
+com.simplecityapps.recycler_adapter.recyclerview.BaseViewHolder#bind(LViewModel;)V

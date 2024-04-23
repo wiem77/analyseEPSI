@@ -122,14 +122,14 @@ public class PackageValidator {
         }
 
         // Check if the package name is valid for the certificate:
-        StringBuffer expectedPackages = new StringBuffer();
+        StringBuilder expectedPackages = new StringBuilder();
         for (CallerInfo info : validCallers) {
             if (callingPackage.equals(info.packageName)) {
                 Log.v(TAG, String.format("Valid caller: %s  package=%s release=%s", info.name, info.packageName, info.release));
                 return true;
             }
-            expectedPackages.append(info.packageName).append(' ');
         }
+        
 
         Log.i(TAG, String.format(
                 "Caller has a valid certificate, but its package doesn't match any expected package for the given certificate. Caller's package is %s. Expected packages as defined in res/xml/allowed_media_browser_callers.xml are (%s). This caller's certificate is: \n%s",

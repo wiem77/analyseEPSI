@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.modelviews.QueuePagerItemView#instance-init#
+com.simplecity.amp_library.utils.DrawableUtils#getBlackBitmap(LContext;I)LBitmap;
+null

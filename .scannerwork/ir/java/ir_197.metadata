@@ -1,1 +1,2 @@
-android.support.design.widget.CustomCollapsingToolbarLayout#setTitle(Ljava/lang/CharSequence;)V
+android.support.design.widget.CustomCollapsingToolbarLayout#setTitleEnabled(Z)V
+android.support.design.widget.CustomCollapsingToolbarLayout#updateDummyView()V

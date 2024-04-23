@@ -1,2 +1,1 @@
-com.afollestad.aesthetic.AestheticFab#onAttachedToWindow()V
-com.afollestad.aesthetic.ViewUtil#getObservableForResId(LContext;ILObservable;)LObservable;
+com.simplecity.amp_library.ui.views.ContextualToolbar#<init>(LContext;LAttributeSet;)V

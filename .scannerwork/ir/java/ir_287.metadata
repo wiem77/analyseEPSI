@@ -1,1 +1,1 @@
-com.simplecity.amp_library.ui.dialog.DeleteDialog#onSaveInstanceState(LBundle;)V
+com.simplecity.amp_library.ui.dialog.DeleteDialog#onPause()V

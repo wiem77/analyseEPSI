@@ -1,2 +1,6 @@
-com.simplecity.amp_library.playback.QueueManager#reloadQueue(LFunction0;)LDisposable;
-java.util.Collections#emptyList()Ljava/util/List;
+com.simplecity.amp_library.playback.QueueManager#enqueue(Ljava/util/List;ILcom/simplecity/amp_library/rx/UnsafeAction;Lcom/simplecity/amp_library/rx/UnsafeAction;)V
+com.simplecity.amp_library.playback.QueueManager#notifyMetaChanged()V
+com.simplecity.amp_library.playback.QueueManager#notifyQueueChanged()V
+==
+run com.simplecity.amp_library.rx.UnsafeAction#run()V
+getCurrentPlaylist com.simplecity.amp_library.playback.QueueManager#getCurrentPlaylist()Ljava/util/List;

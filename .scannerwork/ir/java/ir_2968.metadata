@@ -1,1 +1,1 @@
-com.afollestad.aesthetic.ViewObservablePair#view()LView;
+com.afollestad.aesthetic.ViewObservablePair#<init>(LView;LObservable;)V

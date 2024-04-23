@@ -1,1 +1,2 @@
-com.simplecity.amp_library.sql.legacy.WhitelistDbOpenHelper#onCreate(LSQLiteDatabase;)V
+com.simplecity.amp_library.model.Query#toString()Ljava/lang/String;
+java.util.Arrays#toString([Ljava/lang/Object;)Ljava/lang/String;

@@ -1,1 +1,1 @@
-com.simplecity.amp_library.utils.SettingsManager#setAlbumDisplayType(I)V
+com.simplecity.amp_library.utils.SettingsManager#keepScreenOn()Z

@@ -1,1 +1,1 @@
-com.simplecity.amp_library.ui.views.AestheticDrawableTextView#onDetachedFromWindow()V
+com.simplecity.amp_library.ui.views.AestheticDrawableTextView#init(LContext;LAttributeSet;)V

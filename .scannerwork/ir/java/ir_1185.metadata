@@ -1,3 +1,2 @@
-com.afollestad.aesthetic.Aesthetic#colorPrimaryRes(I)Lcom/afollestad/aesthetic/Aesthetic;
-==
-colorPrimary com.afollestad.aesthetic.Aesthetic#colorPrimary(I)Lcom/afollestad/aesthetic/Aesthetic;
+com.afollestad.aesthetic.Aesthetic#colorPrimaryDark()LObservable;
+com.afollestad.aesthetic.Util#resolveColor(LContext;I)I

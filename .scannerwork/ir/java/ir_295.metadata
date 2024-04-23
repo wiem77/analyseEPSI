@@ -1,3 +1,1 @@
-com.simplecity.amp_library.glide.fetcher.BaseFetcher#loadData(LPriority;)Ljava/io/InputStream;
-==
-getStream com.simplecity.amp_library.glide.fetcher.BaseFetcher#getStream()Ljava/io/InputStream;
+com.simplecity.amp_library.glide.fetcher.BaseFetcher#<init>(LArtworkProvider;)V

@@ -1,1 +1,1 @@
-com.simplecity.amp_library.ui.settings.SupportPresenter#<init>(Lcom/simplecity/amp_library/ShuttleApplication;LSettingsManager;)V
+com.jp.wasabeef.glide.transformations.BlurTransformation#getId()Ljava/lang/String;

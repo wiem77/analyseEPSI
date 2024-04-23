@@ -1,2 +1,1 @@
-com.afollestad.aesthetic.AestheticEditText#<init>(LContext;LAttributeSet;)V
-com.afollestad.aesthetic.AestheticEditText#init(LContext;LAttributeSet;)V
+com.afollestad.aesthetic.AestheticEditText#<init>(LContext;)V

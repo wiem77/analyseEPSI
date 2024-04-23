@@ -1,3 +1,5 @@
-com.simplecity.amp_library.playback.MusicService#onGetRoot(Ljava/lang/String;ILBundle;)LBrowserRoot;
+com.simplecity.amp_library.playback.MusicService#onCreate()V
 null
-java.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;
+com.simplecity.amp_library.playback.MusicService#scheduleDelayedShutdown()V
+==
+registerExternalStorageListener com.simplecity.amp_library.playback.MusicService#registerExternalStorageListener()V

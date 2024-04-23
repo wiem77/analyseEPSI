@@ -1,3 +1,2 @@
-com.jp.wasabeef.glide.transformations.BlurTransformation#<init>(LContext;)V
-==
-<init> com.jp.wasabeef.glide.transformations.BlurTransformation#<init>(LContext;LBitmapPool;II)V
+com.simplecity.amp_library.glide.loader.TypeLoader#getResourceFetcher(LArtworkProvider;II)LDataFetcher;
+null

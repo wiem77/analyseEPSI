@@ -1,2 +1,2 @@
-com.simplecity.amp_library.model.Song#getPlayCount(LContext;)I
-null
+com.simplecity.amp_library.model.Song#setResumed()V
+java.lang.System#currentTimeMillis()J

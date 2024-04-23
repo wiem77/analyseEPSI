@@ -1,1 +1,1 @@
-com.simplecity.amp_library.ui.common.BaseActivity#supportFragmentInjector()LAndroidInjector;
+com.simplecity.amp_library.ui.common.BaseActivity#bindService()V

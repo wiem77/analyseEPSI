@@ -1,4 +1,3 @@
-com.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment#newInstance()Lcom/simplecity/amp_library/ui/screens/queue/pager/QueuePagerFragment;
+com.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment#onCreateView(LLayoutInflater;LViewGroup;LBundle;)LView;
 null
-com.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment#instance-init#
-com.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment#<init>()V
+com.simplecity.amp_library.glide.preloader.RecyclerViewPreloader#instance-init#

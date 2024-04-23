@@ -1,1 +1,1 @@
-com.simplecity.multisheetview.ui.behavior.CustomBottomSheetBehavior#onInterceptTouchEvent(LCoordinatorLayout;LView;LMotionEvent;)Z
+com.simplecity.multisheetview.ui.behavior.CustomBottomSheetBehavior#<init>(LContext;LAttributeSet;)V

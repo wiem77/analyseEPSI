@@ -1,2 +1,1 @@
-com.simplecity.amp_library.ui.modelviews.QueuePagerItemView#equals(Ljava/lang/Object;)Z
-java.lang.Object#getClass()Ljava/lang/Class;
+com.simplecity.amp_library.ui.modelviews.QueuePagerItemView#bindView(Lcom/simplecity/amp_library/ui/modelviews/QueuePagerItemView$ViewHolder;)V

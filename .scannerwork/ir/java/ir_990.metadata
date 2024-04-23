@@ -1,2 +1,1 @@
-com.simplecity.amp_library.playback.MusicService#retrievePlaybackAction(LContext;Ljava/lang/String;)LPendingIntent;
-null
+com.simplecity.amp_library.playback.MusicService#cancelShutdown()V

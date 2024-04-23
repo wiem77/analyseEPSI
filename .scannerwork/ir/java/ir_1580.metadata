@@ -1,1 +1,3 @@
-com.simplecity.amp_library.ui.views.multisheet.MultiSheetEventRelay#getEvents()LObservable;
+com.simplecity.amp_library.sql.databases.CustomArtworkTable#onUpgrade(LSQLiteDatabase;II)V
+==
+onCreate com.simplecity.amp_library.sql.databases.CustomArtworkTable#onCreate(LSQLiteDatabase;)V

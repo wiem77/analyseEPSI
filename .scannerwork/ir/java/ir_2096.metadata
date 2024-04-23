@@ -1,1 +1,2 @@
-com.simplecity.amp_library.sql.sqlbrite.SqlBriteUtils#<init>()V
+com.simplecity.amp_library.sql.sqlbrite.SqlBriteUtils#createSingle(LContext;LFunction;LQuery;Ljava/lang/Object;)LSingle;
+com.simplecity.amp_library.sql.sqlbrite.SqlBriteUtils#createObservable(LContext;LFunction;LQuery;Ljava/lang/Object;)LObservable;

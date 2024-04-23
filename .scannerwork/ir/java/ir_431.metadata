@@ -1,1 +1,2 @@
-com.simplecity.amp_library.model.Playlist#toString()Ljava/lang/String;
+com.simplecity.amp_library.model.Playlist#hashCode()I
+java.lang.String#hashCode()I

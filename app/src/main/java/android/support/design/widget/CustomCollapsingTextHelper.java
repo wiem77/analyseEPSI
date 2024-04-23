@@ -83,7 +83,7 @@ public final class CustomCollapsingTextHelper {
     private Typeface mCurrentTypeface;
     private CharSequence mText;
     private CharSequence mTextToDraw;
-    private boolean mIsRtl;
+    
     private boolean mUseTexture;
     private Bitmap mExpandedTitleTexture;
     private Paint mTexturePaint;
@@ -304,8 +304,10 @@ public final class CustomCollapsingTextHelper {
             if (family != null) {
                 return Typeface.create(family, Typeface.NORMAL);
             }
-        } catch (Exception e) {
-            throw new RuntimeException("Unable to read font family typeface: " + resId);
+        }  catch (FileNotFoundException e) {
+            throw new RuntimeException("Font family typeface not found for resource id: " + resId, e);
+        } catch (IOException e) {
+            throw new RuntimeException("Unable to read font family typeface for resource id: " + resId, e);
         } finally {
             a.recycle();
         }
@@ -539,15 +541,15 @@ public final class CustomCollapsingTextHelper {
 
     public void draw(Canvas canvas) {
         final int saveCount = canvas.save();
-
+    
         if (mTextToDraw != null && mDrawTitle) {
             float x = mCurrentDrawX;
             float y = mCurrentDrawY;
             float subY = mCurrentSubY;
             final boolean drawTexture = mUseTexture && mExpandedTitleTexture != null;
-
             final float ascent;
             final float descent;
+    
             if (drawTexture) {
                 ascent = mTextureAscent * mScale;
                 descent = mTextureDescent * mScale;
@@ -555,42 +557,44 @@ public final class CustomCollapsingTextHelper {
                 ascent = mTitlePaint.ascent() * mScale;
                 descent = mTitlePaint.descent() * mScale;
             }
-
+    
             if (DEBUG_DRAW) {
-                // Just a debug tool, which drawn a magenta rect in the text bounds
-                canvas.drawRect(mCurrentBounds.left, y + ascent, mCurrentBounds.right, y + descent,
-                        DEBUG_DRAW_PAINT);
+              
+                canvas.drawRect(mCurrentBounds.left, y + ascent, mCurrentBounds.right, y + descent, DEBUG_DRAW_PAINT);
             }
-
+    
             if (drawTexture) {
                 y += ascent;
             }
-
-            //region modification
-            final int saveCountSub = canvas.save();
-            if (mSub != null) {
-                if (mSubScale != 1f) {
-                    canvas.scale(mSubScale, mSubScale, x, subY);
-                }
-                canvas.drawText(mSub, 0, mSub.length(), x, subY, mSubPaint);
-                canvas.restoreToCount(saveCountSub);
-            }
-            //endregion
-
+            
+            
+            drawSubtext(canvas, x, subY);
+    
             if (mScale != 1f) {
                 canvas.scale(mScale, mScale, x, y);
             }
-
+    
             if (drawTexture) {
-                // If we should use a texture, draw it instead of text
+               
                 canvas.drawBitmap(mExpandedTitleTexture, x, y, mTexturePaint);
             } else {
                 canvas.drawText(mTextToDraw, 0, mTextToDraw.length(), x, y, mTitlePaint);
             }
         }
-
-        canvas.restoreToCount(saveCount);
     }
+    
+
+    private void drawSubtext(Canvas canvas, float x, float subY) {
+        final int saveCountSub = canvas.save();
+        if (mSub != null) {
+            if (mSubScale != 1f) {
+                canvas.scale(mSubScale, mSubScale, x, subY);
+            }
+            canvas.drawText(mSub, 0, mSub.length(), x, subY, mSubPaint);
+            canvas.restoreToCount(saveCountSub);
+        }
+    }
+    
 
     private boolean calculateIsRtl(CharSequence text) {
         final boolean defaultIsRtl = ViewCompat.getLayoutDirection(mView)
@@ -687,7 +691,7 @@ public final class CustomCollapsingTextHelper {
                     availableWidth, TextUtils.TruncateAt.END);
             if (!TextUtils.equals(title, mTextToDraw)) {
                 mTextToDraw = title;
-                mIsRtl = calculateIsRtl(mTextToDraw);
+              
             }
         }
     }

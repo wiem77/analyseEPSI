@@ -1,76 +1,15 @@
 
-.com.afollestad.aesthetic.Util#isColorLight(I)Zw
-k/C:/Users/User/analyseEPSI/Shuttle-dev/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Util.javaÙ Ù($"6*%
-2
-Ý Ý("
-
-Ý Ý(
-""*¦
-3
-Ü' Ü(,Œ
-‰
-
-Ü' Ü(A
-%2"	__compare*"
-
-__unknown_file (
-==*"
-
-__unknown_file (
-""*"
-
-__unknown_file (
-""*
-2
-1*¦
-4
-Ü Ü(Œ
-‰
-
-Ü Ü(#
-%1"	__compare*"
-
-__unknown_file (
-==*"
-
-__unknown_file (
-""*"
-
-__unknown_file (
-""*
-2
-3*%
-5
-Û Û("
-
-Û Û(
-""*¦
-6
-Ú Ú(Œ
-‰
-
-Ú Ú(
-%0"	__compare*"
-
-__unknown_file (
-==*"
-
-__unknown_file (
-""*"
-
-__unknown_file (
-""*
-4
-5*¼
+-com.afollestad.aesthetic.Util#darkenColor(I)Iw
+k/C:/Users/User/analyseEPSI/Shuttle-dev/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Util.javaÕ Õ("1*ø
 1
-à à(	”
-‘
+Ö Ö(Ð
+Í
 
-ã ã(
-%3boolean"	__compare*!
+Ö Ö("	
+%0int"-com.afollestad.aesthetic.Util#shiftColor(IF)I*=
 
-__unknown_file (
-<*"
+__unknown_file (!"
+com.afollestad.aesthetic.Util*"
 
 __unknown_file (
 ""*"
@@ -78,7 +17,7 @@ k/C:/Users/User/analyseEPSI/Shuttle-dev/libraries/aesthetic/src/main/java/com/af
 __unknown_file (
 """
 
-ã ã(
+Ö Ö(#
 "": 
 
 __unknown_file (

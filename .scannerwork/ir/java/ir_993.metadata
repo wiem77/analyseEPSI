@@ -1,4 +1,1 @@
-com.simplecity.amp_library.playback.MusicService#getTaskerIntent(LSong;)LIntent;
-null
-==
-isPlaying com.simplecity.amp_library.playback.MusicService#isPlaying()Z
+com.simplecity.amp_library.playback.MusicService#stopForegroundImpl(ZZ)V

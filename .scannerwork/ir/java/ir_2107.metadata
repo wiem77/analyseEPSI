@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.views.StatusBarView#onMeasure(II)V
+com.simplecity.amp_library.model.Artist#hashCode()I
+java.lang.String#hashCode()I

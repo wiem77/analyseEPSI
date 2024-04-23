@@ -1,2 +1,1 @@
-com.simplecity.amp_library.ui.views.CircleImageView#setImageBitmap(LBitmap;)V
-com.simplecity.amp_library.ui.views.CircleImageView#setup()V
+com.simplecity.amp_library.ui.views.CircleImageView#setColorFilter(LColorFilter;)V

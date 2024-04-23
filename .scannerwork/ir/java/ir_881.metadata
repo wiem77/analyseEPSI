@@ -1,3 +1,1 @@
-com.jp.wasabeef.glide.transformations.internal.RSBlur#getInstance(LContext;)Lcom/jp/wasabeef/glide/transformations/internal/RSBlur;
-com.jp.wasabeef.glide.transformations.internal.RSBlur#instance-init#
-com.jp.wasabeef.glide.transformations.internal.RSBlur#<init>(LContext;)V
+com.jp.wasabeef.glide.transformations.GrayscaleTransformation#getId()Ljava/lang/String;

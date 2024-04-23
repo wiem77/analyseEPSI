@@ -1,4 +1,3 @@
-com.simplecity.amp_library.playback.QueueManager#clearQueue()V
-com.simplecity.amp_library.playback.QueueManager#notifyQueueChanged()V
+com.simplecity.amp_library.playback.QueueManager#previous()V
 ==
-setShuffleMode com.simplecity.amp_library.playback.QueueManager#setShuffleMode(I)V
+getCurrentPlaylist com.simplecity.amp_library.playback.QueueManager#getCurrentPlaylist()Ljava/util/List;

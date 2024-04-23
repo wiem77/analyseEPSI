@@ -1,1 +1,2 @@
-com.afollestad.aesthetic.AestheticBottomNavigationView#onDetachedFromWindow()V
+com.afollestad.aesthetic.AestheticBottomNavigationView#onAttachedToWindow()V
+com.afollestad.aesthetic.AestheticBottomNavigationView$State#creator()LFunction3;

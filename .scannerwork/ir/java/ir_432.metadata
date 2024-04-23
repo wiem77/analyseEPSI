@@ -1,2 +1,1 @@
-com.simplecity.amp_library.model.Playlist#createSongFromPlaylistCursor(LCursor;)LSong;
-null
+com.simplecity.amp_library.model.Playlist#toString()Ljava/lang/String;

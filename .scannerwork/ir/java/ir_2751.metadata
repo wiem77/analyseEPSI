@@ -1,2 +1,2 @@
-com.simplecity.amp_library.utils.ContextualToolbarHelper#instance-init#
-java.util.LinkedHashMap#<init>(I)V
+com.simplecity.amp_library.ui.modelviews.SubheaderView#hashCode()I
+java.lang.String#hashCode()I

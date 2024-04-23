@@ -1,1 +1,2 @@
-com.afollestad.aesthetic.AestheticEditText#onDetachedFromWindow()V
+com.afollestad.aesthetic.AestheticEditText#onAttachedToWindow()V
+null

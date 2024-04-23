@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.screens.genre.list.GenreListFragmentModule#<init>()V
+com.simplecity.amp_library.utils.TimeLogger#logInterval(Ljava/lang/String;Ljava/lang/String;)V
+java.lang.System#currentTimeMillis()J

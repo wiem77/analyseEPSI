@@ -1,3 +1,1 @@
-com.simplecity.amp_library.ui.screens.drawer.DrawerChild#onClick()V
-==
-onClick com.simplecity.amp_library.ui.screens.drawer.DrawerChild$ClickListener#onClick(LPlaylist;)V
+com.simplecity.amp_library.ui.widgets.WidgetConfigureActivitySmallModule#provideBillingUpdatesListener(LWidgetConfigureActivitySmall;)LBillingManager/BillingUpdatesListener;

@@ -1,2 +1,2 @@
-com.simplecity.amp_library.services.ArtworkDownloadService#getNotificationBuilder()LNotificationCompat/Builder;
+com.simplecity.amp_library.services.ArtworkDownloadService#instance-init#
 null

@@ -1,4 +1,5 @@
-com.simplecity.amp_library.utils.FileHelper#getName(Ljava/lang/String;)Ljava/lang/String;
-java.lang.String#length()I
-com.simplecity.amp_library.utils.FileHelper#getExtension(Ljava/lang/String;)Ljava/lang/String;
-java.lang.String#substring(II)Ljava/lang/String;
+com.simplecity.amp_library.utils.FileHelper#isSymlink(Ljava/io/File;)Z
+java.lang.String#compareTo(Ljava/lang/String;)I
+==
+getAbsolutePath java.io.File#getAbsolutePath()Ljava/lang/String;
+getCanonicalPath java.io.File#getCanonicalPath()Ljava/lang/String;

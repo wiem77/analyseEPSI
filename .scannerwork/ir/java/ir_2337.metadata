@@ -1,3 +1,1 @@
-com.afollestad.aesthetic.AestheticButton#onAttachedToWindow()V
-com.afollestad.aesthetic.Rx#onErrorLogAndRethrow()LConsumer;
-com.afollestad.aesthetic.Rx#distinctToMainThread()LObservableTransformer;
+com.afollestad.aesthetic.AestheticButton#init(LContext;LAttributeSet;)V

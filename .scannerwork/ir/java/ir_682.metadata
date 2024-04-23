@@ -1,1 +1,1 @@
-com.simplecity.amp_library.utils.SettingsManager#setFolderBrowserFilesAscending(Z)V
+com.simplecity.amp_library.utils.SettingsManager#setFolderBrowserFilesSortOrder(Ljava/lang/String;)V

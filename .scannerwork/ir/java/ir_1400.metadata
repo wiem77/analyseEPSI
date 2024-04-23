@@ -1,4 +1,3 @@
-com.afollestad.aesthetic.Util#setTaskDescriptionColor(LActivity;I)V
-null
-com.afollestad.aesthetic.Util#stripAlpha(I)I
-com.afollestad.aesthetic.Util#getAppIcon(LPackageManager;Ljava/lang/String;)LBitmap;
+com.simplecity.amp_library.sql.legacy.WhitelistFolder#equals(Ljava/lang/Object;)Z
+java.lang.Object#getClass()Ljava/lang/Class;
+java.lang.String#equals(Ljava/lang/Object;)Z

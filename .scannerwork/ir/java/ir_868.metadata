@@ -1,1 +1,2 @@
-com.simplecity.amp_library.services.ArtworkDownloadService#onTaskRemoved(LIntent;)V
+com.simplecity.amp_library.services.ArtworkDownloadService#getNotificationBuilder()LNotificationCompat/Builder;
+null

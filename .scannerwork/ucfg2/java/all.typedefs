@@ -847,13 +847,14 @@ Fcom.simplecityapps.recycler_adapter.recyclerview.AttachStateViewHolderjava.la
 getBitmap()Hcom.simplecity.amp_library.glide.utils.BitmapAndSize#getBitmap()LBitmap;x
 	getSize()kcom.simplecity.amp_library.glide.utils.BitmapAndSize#getSize()Lcom/simplecity/amp_library/glide/utils/Size;N
 
-hashCode()@com.simplecity.amp_library.glide.utils.BitmapAndSize#hashCode()IŒ
+hashCode()@com.simplecity.amp_library.glide.utils.BitmapAndSize#hashCode()Iá
 +com.simplecity.amp_library.glide.utils.Sizejava.lang.ObjectE
 
 <init>(II)7com.simplecity.amp_library.glide.utils.Size#<init>(II)Ve
 equals(Ljava/lang/Object;)Gcom.simplecity.amp_library.glide.utils.Size#equals(Ljava/lang/Object;)ZE
 
-hashCode()7com.simplecity.amp_library.glide.utils.Size#hashCode()IV
+hashCode()7com.simplecity.amp_library.glide.utils.Size#hashCode()IS
+setDimensions(II)>com.simplecity.amp_library.glide.utils.Size#setDimensions(II)VV
 
 toString()Hcom.simplecity.amp_library.glide.utils.Size#toString()Ljava/lang/String;(
 AestheticKeyProviderjava.lang.Object%
@@ -2878,7 +2879,12 @@ toString()]com.simplecity.amp_library.ui.modelviews.PlaylistView$ViewHolder#toS
 9com.simplecity.amp_library.glide.palette.ColorSetResourceResourcejava.lang.ObjectR
 get()Icom.simplecity.amp_library.glide.palette.ColorSetResource#get()LColorSet;Q
 	getSize()Dcom.simplecity.amp_library.glide.palette.ColorSetResource#getSize()IQ
-	recycle()Dcom.simplecity.amp_library.glide.palette.ColorSetResource#recycle()V
+	recycle()Dcom.simplecity.amp_library.glide.palette.ColorSetResource#recycle()VÞ
+'java.lang.UnsupportedOperationExceptionjava.lang.RuntimeException=
+<init>()1java.lang.UnsupportedOperationException#<init>()Va
+<init>(Ljava/lang/String;)Cjava.lang.UnsupportedOperationException#<init>(Ljava/lang/String;)V‹
+/<init>(Ljava/lang/String;Ljava/lang/Throwable;)Xjava.lang.UnsupportedOperationException#<init>(Ljava/lang/String;Ljava/lang/Throwable;)Vg
+<init>(Ljava/lang/Throwable;)Fjava.lang.UnsupportedOperationException#<init>(Ljava/lang/Throwable;)V
 BaseFetcherjava.lang.Objectƒ
 3com.simplecity.amp_library.glide.fetcher.TagFetcherBaseFetcherc
 getStream()Tcom.simplecity.amp_library.glide.fetcher.TagFetcher#getStream()Ljava/io/InputStream;Z
@@ -5177,12 +5183,7 @@ isetPaletteBuilderInterceptor(Lcom/github/florent37/glidepalette/BitmapPalette$P
 8com.github.florent37.glidepalette.BitmapPalette$CallBackjava.lang.Object]
 Icom.github.florent37.glidepalette.BitmapPalette$PaletteBuilderInterceptorjava.lang.Objectl
 7com.github.florent37.glidepalette.BitmapPalette$Profilejava.lang.Objectjava.lang.annotation.Annotationk
-6com.github.florent37.glidepalette.BitmapPalette$Swatchjava.lang.Objectjava.lang.annotation.AnnotationÞ
-'java.lang.UnsupportedOperationExceptionjava.lang.RuntimeException=
-<init>()1java.lang.UnsupportedOperationException#<init>()Va
-<init>(Ljava/lang/String;)Cjava.lang.UnsupportedOperationException#<init>(Ljava/lang/String;)V‹
-/<init>(Ljava/lang/String;Ljava/lang/Throwable;)Xjava.lang.UnsupportedOperationException#<init>(Ljava/lang/String;Ljava/lang/Throwable;)Vg
-<init>(Ljava/lang/Throwable;)Fjava.lang.UnsupportedOperationException#<init>(Ljava/lang/Throwable;)V0
+6com.github.florent37.glidepalette.BitmapPalette$Swatchjava.lang.Objectjava.lang.annotation.Annotation0
 Palette.PaletteAsyncListenerjava.lang.ObjectQ
 1com.github.florent37.glidepalette.BitmapPalette$1Palette.PaletteAsyncListener;
 'FastScrollRecyclerView.SectionedAdapterjava.lang.Objectµ
@@ -5537,9 +5538,7 @@ EreplacementTreeNode(Ljava/util/HashMap$Node;Ljava/util/HashMap$Node;)sjava.uti
 &treeifyBin([Ljava/util/HashMap$Node;I)9java.util.HashMap#treeifyBin([Ljava/util/HashMap$Node;I)V<
 values()0java.util.HashMap#values()Ljava/util/Collection;m
 "valuesToArray([Ljava/lang/Object;)Gjava.util.HashMap#valuesToArray([Ljava/lang/Object;)[Ljava/lang/Object;i
-)writeObject(Ljava/io/ObjectOutputStream;)<java.util.HashMap#writeObject(Ljava/io/ObjectOutputStream;)VÞ
-,com.simplecity.amp_library.http.HttpServer$1java.util.HashMapš
-4<init>(Lcom/simplecity/amp_library/http/HttpServer;)bcom.simplecity.amp_library.http.HttpServer$1#<init>(Lcom/simplecity/amp_library/http/HttpServer;)Vá
+)writeObject(Ljava/io/ObjectOutputStream;)<java.util.HashMap#writeObject(Ljava/io/ObjectOutputStream;)Vá
 9com.simplecity.amp_library.ui.widgets.WidgetProviderSmallBaseWidgetProviderO
 <init>()Ccom.simplecity.amp_library.ui.widgets.WidgetProviderSmall#<init>()Vv
 getLayoutIdString()_com.simplecity.amp_library.ui.widgets.WidgetProviderSmall#getLayoutIdString()Ljava/lang/String;]
@@ -5649,4 +5648,6 @@ Ycom.simplecity.amp_library.ui.views.CustomMediaRouteActionProvider$CustomMediaR
 setHomeDir():com.simplecity.amp_library.utils.FileBrowser#setHomeDir()Vg
 sizeComparator()Scom.simplecity.amp_library.utils.FileBrowser#sizeComparator()Ljava/util/Comparator;q
 trackNameComparator()Xcom.simplecity.amp_library.utils.FileBrowser#trackNameComparator()Ljava/util/Comparator;u
-trackNumberComparator()Zcom.simplecity.amp_library.utils.FileBrowser#trackNumberComparator()Ljava/util/Comparator;
+trackNumberComparator()Zcom.simplecity.amp_library.utils.FileBrowser#trackNumberComparator()Ljava/util/Comparator;Þ
+,com.simplecity.amp_library.http.HttpServer$1java.util.HashMapš
+4<init>(Lcom/simplecity/amp_library/http/HttpServer;)bcom.simplecity.amp_library.http.HttpServer$1#<init>(Lcom/simplecity/amp_library/http/HttpServer;)V

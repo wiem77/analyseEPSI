@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.modelviews.SelectableViewModel#<init>()V
+com.simplecity.amp_library.sql.sqlbrite.SqlBriteUtils#createObservable(LContext;LQuery;)LObservable;
+com.simplecity.amp_library.sql.sqlbrite.SqlBriteUtils#wrapContentProvider(LContext;)LBriteContentResolver;

@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.common.BaseActivity#onRequestPermissionsResult(I[Ljava/lang/String;[I)V
+com.simplecity.amp_library.ui.common.BaseActivity#onPremiumPurchaseCompleted()V
+null

@@ -1,3 +1,2 @@
-com.simplecity.amp_library.ui.views.SizableSeekBar#<init>(LContext;)V
-==
-<init> com.simplecity.amp_library.ui.views.SizableSeekBar#<init>(LContext;LAttributeSet;)V
+com.simplecity.amp_library.ui.views.SizableSeekBar#instance-init#
+null

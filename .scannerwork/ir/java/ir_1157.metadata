@@ -1,3 +1,1 @@
-com.afollestad.aesthetic.AestheticTextInputLayout#onAttachedToWindow()V
-null
-com.afollestad.aesthetic.ViewUtil#getObservableForResId(LContext;ILObservable;)LObservable;
+com.simplecity.amp_library.rx.UnsafeCallable#instance-init#

@@ -1,1 +1,1 @@
-com.afollestad.aesthetic.AestheticSwitch#<init>(LContext;)V
+com.afollestad.aesthetic.AestheticSwitch#invalidateColors(LColorIsDarkState;)V

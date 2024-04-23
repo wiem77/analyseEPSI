@@ -1,1 +1,1 @@
-com.afollestad.aesthetic.AestheticSeekBar#<init>(LContext;)V
+com.simplecity.amp_library.utils.menu.MenuUtils#addToQueue(LMediaManager;LSingle;LFunction1;)LDisposable;

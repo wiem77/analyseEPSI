@@ -1,2 +1,2 @@
-com.simplecity.amp_library.model.Song#setStartTime()V
+com.simplecity.amp_library.model.Song#getElapsedTime()J
 java.lang.System#currentTimeMillis()J

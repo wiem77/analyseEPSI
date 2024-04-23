@@ -1,2 +1,2 @@
-com.simplecity.amp_library.utils.color.ColorHelper#isColorLight(I)Z
-com.simplecity.amp_library.utils.color.ColorHelper#calculateLuminance(I)D
+com.simplecity.amp_library.utils.color.ColorHelper#satisfiesTextContrast(II)Z
+com.simplecity.amp_library.utils.color.ColorHelper#calculateContrast(II)D

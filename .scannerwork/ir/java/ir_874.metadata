@@ -1,1 +1,1 @@
-test.com.androidnavigation.fragment.BackPressListener#<init>()V
+com.simplecity.amp_library.services.ArtworkDownloadService#onBind(LIntent;)LIBinder;

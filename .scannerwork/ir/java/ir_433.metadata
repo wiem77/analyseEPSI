@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.screens.folders.FolderFragmentModule#instance-init#
+com.simplecity.amp_library.model.Playlist#createSongFromPlaylistCursor(LCursor;)LSong;
+null

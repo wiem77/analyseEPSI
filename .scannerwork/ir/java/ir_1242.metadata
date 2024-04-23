@@ -1,1 +1,1 @@
-com.afollestad.aesthetic.Aesthetic#apply()V
+com.simplecity.amp_library.http.lastfm.LastFmUtils#findSize(Ljava/util/List;Ljava/lang/String;)LLastFmImage;

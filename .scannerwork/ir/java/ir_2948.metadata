@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.settings.SettingsPresenter#tintNavBarClicked(LContext;Z)V
+com.simplecity.amp_library.ui.settings.SettingsPresenter#accentColorClicked(LContext;)V
+null

@@ -211,16 +211,16 @@ class MediaSessionManager {
         PlaybackStateCompat.Builder builder = new PlaybackStateCompat.Builder();
         builder.setActions(playbackActions);
 
-        switch (queueManager.shuffleMode) {
-            case QueueManager.ShuffleMode.OFF:
+        if (queueManager.shuffleMode.ShuffleMode.OFF) {
+           
                 builder.addCustomAction(
                         new PlaybackStateCompat.CustomAction.Builder(SHUFFLE_ACTION, context.getString(R.string.btn_shuffle_on), R.drawable.ic_shuffle_off_circled).build());
-                break;
-            case QueueManager.ShuffleMode.ON:
-                builder.addCustomAction(
-                        new PlaybackStateCompat.CustomAction.Builder(SHUFFLE_ACTION, context.getString(R.string.btn_shuffle_off), R.drawable.ic_shuffle_on_circled).build());
-                break;
         }
+            else {builder.addCustomAction(
+                new PlaybackStateCompat.CustomAction.Builder(SHUFFLE_ACTION, context.getString(R.string.btn_shuffle_off), R.drawable.ic_shuffle_on_circled).build());}
+                
+           
+    
 
         builder.setState(playState, playbackManager.getSeekPosition(), 1.0f);
 

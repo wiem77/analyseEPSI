@@ -1,1 +1,1 @@
-com.afollestad.aesthetic.Util#setStatusBarColorCompat(LAppCompatActivity;I)V
+com.afollestad.aesthetic.Util#resolveResId(LContext;LAttributeSet;I)I

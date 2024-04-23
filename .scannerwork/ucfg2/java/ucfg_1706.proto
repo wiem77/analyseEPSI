@@ -1,14 +1,54 @@
 
-dcom.simplecity.amp_library.ui.widgets.WidgetProviderSmall#getUpdateCommandString()Ljava/lang/String;
-w/C:/Users/User/analyseEPSI/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetProviderSmall.java   (("1*–
-1! !(!a
-_
-! !(!
-%0java.lang.String"__id*5
+\com.simplecity.amp_library.http.HttpServer#getMimeType(Ljava/lang/String;)Ljava/lang/String;t
+h/C:/Users/User/analyseEPSI/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/http/HttpServer.java× ×("1*ö
+1
+Ø Ø(†
+ƒ
+
+Ø Ø(
+%0java.util.Map"__id*Z
 
-__unknown_file (
-appwidgetupdate_small"$
-! !("
+__unknown_file (>*<,
+*com.simplecity.amp_library.http.HttpServer"
+
+MIME_TYPESÍÊ
+
+Ø1 Ø(J	
+%1int"1java.lang.String#lastIndexOf(Ljava/lang/String;)I*:
+
+__unknown_file (
+
+filePathjava.lang.String*!
+
+__unknown_file (
+.2lastIndexOf(Ljava/lang/String;)ÆÃ
+
+Ø Ø(O
+%2java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*:
+
+__unknown_file (
+
+filePathjava.lang.String*"
+
+__unknown_file (
+""2substring(I)š
+—
+
+Ø Ø(P
+%3java.lang.String"__mapGet*1
+
+__unknown_file (
+
+%0java.util.Map*4
+
+__unknown_file (
 
-%0java.lang.StringB=;
-9com.simplecity.amp_library.ui.widgets.WidgetProviderSmallH
+%2java.lang.String"&
+
+Ø Ø(Q
+
+%3java.lang.String:*
+
+× ×(&
+filePathjava.lang.StringB.,
+*com.simplecity.amp_library.http.HttpServer

@@ -1,2 +1,1 @@
-com.afollestad.aesthetic.Util#adjustAlpha(IF)I
-java.lang.Math#round(F)I
+com.afollestad.aesthetic.Util#isColorLight(I)Z

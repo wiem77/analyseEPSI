@@ -1,2 +1,1 @@
-com.afollestad.aesthetic.AestheticTextView#<init>(LContext;LAttributeSet;)V
-com.afollestad.aesthetic.AestheticTextView#init(LContext;LAttributeSet;)V
+com.afollestad.aesthetic.AestheticTextView#instance-init#

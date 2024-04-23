@@ -1,1 +1,1 @@
-com.afollestad.aesthetic.AestheticImageButton#onAttachedToWindow()V
+com.afollestad.aesthetic.AestheticImageButton#init(LContext;LAttributeSet;)V

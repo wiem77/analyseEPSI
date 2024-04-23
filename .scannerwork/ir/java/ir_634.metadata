@@ -1,3 +1,4 @@
-android.support.design.widget.CustomCollapsingTextHelper#calculateIsRtl(Ljava/lang/CharSequence;)Z
+android.support.design.widget.CustomCollapsingTextHelper#draw(LCanvas;)V
+android.support.design.widget.CustomCollapsingTextHelper#drawSubtext(LCanvas;FF)V
 ==
 length java.lang.CharSequence#length()I

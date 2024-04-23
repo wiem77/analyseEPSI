@@ -1,4 +1,2 @@
-com.simplecity.amp_library.model.Song#<init>(LCursor;)V
-com.simplecity.amp_library.model.Song#setArtworkKey()V
-==
-setSortKey com.simplecity.amp_library.model.Song#setSortKey()V
+com.simplecity.amp_library.model.Song#setStartTime()V
+java.lang.System#currentTimeMillis()J

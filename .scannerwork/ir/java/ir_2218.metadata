@@ -1,1 +1,1 @@
-com.afollestad.aesthetic.AestheticTextInputEditText#<init>(LContext;)V
+com.afollestad.aesthetic.AestheticTextInputEditText#invalidateColors(LColorIsDarkState;)V

@@ -1,12 +1,17 @@
 
-Fcom.simplecityapps.recycler_adapter.model.BaseViewModel#getViewType()Ió
-å/C:/Users/User/analyseEPSI/Shuttle-dev/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/model/BaseViewModel.java ("1*Ú
-1 (ŒÀ
- (	
-%0int"Icom.simplecityapps.recycler_adapter.model.BaseViewModel#getLayoutResId()I*W
+ecom.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity#screenName()Ljava/lang/String;ë
+Ñ/C:/Users/User/analyseEPSI/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/ui/screens/search/voice/VoiceSearchActivity.javaú ú("1*ö
+1
+ù ù(a
+_
+
+ù ù(
+%0java.lang.String"__id*3
 
-__unknown_file (;9
-7com.simplecityapps.recycler_adapter.model.BaseViewModel2getLayoutResId()"
- ( 
-""B;9
-7com.simplecityapps.recycler_adapter.model.BaseViewModelHX
+__unknown_file (
+VoiceSearchActivity"&
+
+ù ù(
+
+%0java.lang.StringBJH
+Fcom.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity

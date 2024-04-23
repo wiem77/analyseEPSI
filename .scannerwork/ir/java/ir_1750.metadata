@@ -1,1 +1,3 @@
-com.simplecity.amp_library.ui.screens.tagger.CheckDocumentPermissionsTask#<init>(LContext;LSettingsManager;Ljava/util/List;Ljava/util/List;Lcom/simplecity/amp_library/ui/screens/tagger/CheckDocumentPermissionsTask$PermissionCheckListener;)V
+com.simplecity.amp_library.services.Equalizer#<init>(LContext;LSettingsManager;)V
+null
+com.simplecity.amp_library.services.Equalizer#saveDefaults()V

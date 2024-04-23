@@ -1,2 +1,1 @@
-com.simplecity.amp_library.ui.modelviews.InclExclView#equals(Ljava/lang/Object;)Z
-java.lang.Object#getClass()Ljava/lang/Class;
+com.afollestad.aesthetic.AestheticRecyclerView#<init>(LContext;)V

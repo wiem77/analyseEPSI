@@ -1,3 +1,2 @@
-android.support.design.widget.CustomCollapsingTextHelper#draw(LCanvas;)V
-==
-length java.lang.CharSequence#length()I
+android.support.design.widget.CustomCollapsingTextHelper#interpolateBounds(F)V
+android.support.design.widget.CustomCollapsingTextHelper#lerp(FFFLInterpolator;)F

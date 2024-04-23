@@ -1,61 +1,79 @@
 
-_com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#getTempDouble3Array()[D|
-p/C:/Users/User/analyseEPSI/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.javaÑ Ñ(+"3*±
+]com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#pivotXyzComponent(D)D|
+p/C:/Users/User/analyseEPSI/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.java˛ ˛(/"4*¨
 2
-á$ á(%U
-S
+Å Å( F
+D
 
-à à(
-%3java.lang.ThreadLocal"__id*"
+Å Å( 
+%5double"__id*"
 
 __unknown_file (
-""√¿
+""N
+L
 
-à à(&
-
-%4void".java.lang.ThreadLocal#set(Ljava/lang/Object;)V*9
+Å Å(8
+%2double"__id**
 
-__unknown_file (
-
-%3java.lang.ThreadLocal*"
-
-__unknown_file (
-""2set(Ljava/lang/Object;)*
-1*ô
+__unknown_file (
+
+%4double*
+1*ï
 3
-Ö Ö((U
-S
+Ä Ä(Æ
+´
 
-Ö Ö((
-%0java.lang.ThreadLocal"__id*"
+Ä Ä(2
+%3double"java.lang.Math#pow(DD)D*.
 
-__unknown_file (
-""êç
-
-Ö Ö(.
-%1double[]"-java.lang.ThreadLocal#get()Ljava/lang/Object;*9
-
-__unknown_file (
-
-%0java.lang.ThreadLocal2get()ï
-í
-
-Ü Ü(
-%2boolean"	__compare*"
-
-__unknown_file (
-==*"
+__unknown_file ("
+java.lang.Math*"
 
 __unknown_file (
 ""*"
 
 __unknown_file (
-""*
-2
-1*%
-1
-ä ä("
+""N
+L
 
-ä ä(
+Ä Ä(2
+%2double"__id**
+
+__unknown_file (
+
+%3double*
+1*˛
+4
+ˇ ˇ(F
+D
+
+ˇ ˇ(*
+%0double"__id*"
+
+__unknown_file (
+""ú
+ô
+
+ˇ ˇ(*
+%1boolean"	__compare*!
+
+__unknown_file (
+>*"
+
+__unknown_file (
+""**
+
+__unknown_file (
+
+%0double*
+2
+3*%
+1
+ˇ Å(9"
+
+ˇ Å(9
+"": 
+
+__unknown_file (
 ""BK"I
-Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat
+Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompatX

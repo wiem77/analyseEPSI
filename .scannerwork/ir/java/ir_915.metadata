@@ -1,1 +1,2 @@
-com.afollestad.aesthetic.AestheticNavigationView#onDetachedFromWindow()V
+com.afollestad.aesthetic.AestheticNavigationView#invalidateColors(LColorIsDarkState;)V
+null

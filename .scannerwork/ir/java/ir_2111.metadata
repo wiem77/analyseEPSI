@@ -1,2 +1,2 @@
-com.simplecity.amp_library.model.Artist#hashCode()I
-java.lang.String#hashCode()I
+com.simplecity.amp_library.glide.utils.CustomAppWidgetTarget#onLoadFailed(Ljava/lang/Exception;LDrawable;)V
+com.simplecity.amp_library.glide.utils.CustomAppWidgetTarget#update()V

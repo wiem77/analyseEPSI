@@ -1,64 +1,62 @@
 
-Fcom.simplecity.amp_library.model.Playlist#toString()Ljava/lang/String;q
-g/C:/Users/User/analyseEPSI/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/model/Playlist.javaw w("1*½
-1x x(^
-\
-x y(
-%0java.lang.String"__concat*
-x x(
-	Playlist{*
-y y(
-id=h
-f
-x y(
-%1java.lang.String"__concat*$
-x y(
-
-%0java.lang.String*
-y y(
-""n
-l
-x z(
-%2java.lang.String"__concat*$
-x y(
-
-%1java.lang.String*
-z z(
-
-, name='
+5com.simplecity.amp_library.model.Playlist#hashCode()Iq
+g/C:/Users/User/analyseEPSI/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/model/Playlist.javap p("4*Z
+2rA r(BF
+D
+rA r(B	
+%2int"__id*'
+
+__unknown_file (
+	
+%4int*
+1*Ô
+3r/ r(3
 }
-z z(!
-%3java.lang.String"__id*S
+r/ r(3
+%5java.lang.String"__id*S
 
 __unknown_file (7*5+
 )com.simplecity.amp_library.model.Playlist"
-namez
-x
-x z(!
-%4java.lang.String"__concat*$
-x z(
+namewu
+r/ r(>	
+%3int"java.lang.String#hashCode()I*4
+
+__unknown_file (
 
-%2java.lang.String*$
-z z(!
+%5java.lang.String2
+hashCode()F
+D
+r/ r(>	
+%2int"__id*'
+
+__unknown_file (
+	
+%3int*
+1*¾
+4q q(
+}
+r  r($
+%0java.lang.String"__id*S
+
+__unknown_file (7*5+
+)com.simplecity.amp_library.model.Playlist"
+name¥
+¢
+r  r(,
+%1boolean"	__compare*"
+
+__unknown_file (
+!=*4
+
+__unknown_file (
 
-%3java.lang.Stringh
-f
-x z((
-%5java.lang.String"__concat*$
-x z(!
-
-%4java.lang.String*
-z$ z((
-\'g
-e
-x {(
-%6java.lang.String"__concat*$
-x z((
-
-%5java.lang.String*
-{ {(
-}"$
-x {(
-
-%6java.lang.StringB-+
-)com.simplecity.amp_library.model.PlaylistH
+%0java.lang.String*"
+
+__unknown_file (
+""*
+2
+3*!
+1r r(C"
+s s(
+""B-+
+)com.simplecity.amp_library.model.PlaylistHX

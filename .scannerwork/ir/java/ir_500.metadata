@@ -1,1 +1,1 @@
-com.afollestad.aesthetic.AestheticImageButton#onDetachedFromWindow()V
+com.afollestad.aesthetic.AestheticImageButton#onAttachedToWindow()V

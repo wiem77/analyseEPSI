@@ -1,1 +1,1 @@
-com.simplecity.amp_library.utils.ContextualToolbarHelper#start()V
+com.simplecity.amp_library.utils.ContextualToolbarHelper#<init>(LContext;LContextualToolbar;Lcom/simplecity/amp_library/utils/ContextualToolbarHelper$Callback;)V

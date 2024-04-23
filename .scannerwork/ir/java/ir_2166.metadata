@@ -1,3 +1,2 @@
-com.simplecity.amp_library.ui.widgets.BaseWidgetProvider#pushUpdate(LContext;ILRemoteViews;)V
+com.simplecity.amp_library.ui.widgets.BaseWidgetProvider#getPendingIntent(LContext;ILIntent;)LPendingIntent;
 null
-java.lang.Object#getClass()Ljava/lang/Class;

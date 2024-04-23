@@ -1,3 +1,4 @@
-com.github.florent37.glidepalette.BitmapPalette#intoCallBack(Lcom/github/florent37/glidepalette/BitmapPalette$CallBack;)Lcom/github/florent37/glidepalette/BitmapPalette;
+com.github.florent37.glidepalette.BitmapPalette#crossfade(ZI)Lcom/github/florent37/glidepalette/BitmapPalette;
+com.github.florent37.glidepalette.BitmapPalette#assertTargetsIsNotEmpty()V
 ==
-add java.util.ArrayList#add(Ljava/lang/Object;)Z
+crossfade com.github.florent37.glidepalette.BitmapPalette#crossfade(Z)Lcom/github/florent37/glidepalette/BitmapPalette;

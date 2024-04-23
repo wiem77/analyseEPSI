@@ -1,2 +1,4 @@
-com.simplecity.amp_library.notifications.MusicNotificationHelper#getBuilder(LContext;LSong;LMediaSessionCompat/Token;LBitmap;ZZ)LNotificationCompat/Builder;
+com.simplecity.amp_library.notifications.MusicNotificationHelper#<init>(LContext;LAnalyticsManager;)V
 null
+==
+<init> com.simplecity.amp_library.notifications.NotificationHelper#<init>(LContext;)V

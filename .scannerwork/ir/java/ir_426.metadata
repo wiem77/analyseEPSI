@@ -1,1 +1,1 @@
-com.simplecity.amp_library.model.Playlist#clear(LPlaylistManager;LFavoritesPlaylistManager;)V
+com.simplecity.amp_library.model.Playlist#<init>(LContext;LCursor;)V

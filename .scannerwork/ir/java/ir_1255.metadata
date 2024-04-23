@@ -1,1 +1,1 @@
-com.simplecity.amp_library.ui.views.AestheticTintedImageView#onDetachedFromWindow()V
+com.afollestad.aesthetic.ViewBackgroundSubscriber#onError(Ljava/lang/Throwable;)V

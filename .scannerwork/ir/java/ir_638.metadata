@@ -1,3 +1,2 @@
+android.support.design.widget.CustomCollapsingTextHelper#setInterpolatedSubSize(F)V
 android.support.design.widget.CustomCollapsingTextHelper#calculateUsingSubSize(F)V
-java.lang.Math#min(FF)F
-android.support.design.widget.CustomCollapsingTextHelper#isClose(FF)Z

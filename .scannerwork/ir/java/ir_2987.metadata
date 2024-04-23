@@ -1,4 +1,4 @@
-com.simplecity.amp_library.utils.FileBrowser#getHomeDirIcon()I
+com.simplecity.amp_library.utils.FileBrowser#hasHomeDir()Z
 ==
-atHomeDirectory com.simplecity.amp_library.utils.FileBrowser#atHomeDirectory()Z
-hasHomeDir com.simplecity.amp_library.utils.FileBrowser#hasHomeDir()Z
+getHomeDir com.simplecity.amp_library.utils.FileBrowser#getHomeDir()Ljava/io/File;
+getPath java.io.File#getPath()Ljava/lang/String;

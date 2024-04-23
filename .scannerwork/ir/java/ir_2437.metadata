@@ -1,1 +1,2 @@
-com.simplecity.amp_library.utils.menu.MenuUtils#goToGenre(LSingle;LNavigationEventRelay;)V
+com.simplecity.amp_library.utils.menu.MenuUtils#goToArtist(LRepository/AlbumArtistsRepository;LAlbumArtist;LNavigationEventRelay;)V
+java.util.Collections#emptyList()Ljava/util/List;

@@ -1,2 +1,1 @@
-android.support.design.widget.CustomCollapsingToolbarLayout#updateDummyView()V
-null
+android.support.design.widget.CustomCollapsingToolbarLayout#getTitle()Ljava/lang/CharSequence;

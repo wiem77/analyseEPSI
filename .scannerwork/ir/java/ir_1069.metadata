@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.modelviews.SongView#bindView(Lcom/simplecity/amp_library/ui/modelviews/SongView$ViewHolder;ILjava/util/List;)V
+com.simplecity.amp_library.ui.modelviews.SongView#equals(Ljava/lang/Object;)Z
+java.lang.Object#getClass()Ljava/lang/Class;

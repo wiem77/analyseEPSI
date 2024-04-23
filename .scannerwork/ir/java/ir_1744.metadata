@@ -1,2 +1,1 @@
-com.afollestad.aesthetic.AestheticCardView#<init>(LContext;LAttributeSet;)V
-com.afollestad.aesthetic.AestheticCardView#init(LContext;LAttributeSet;)V
+com.afollestad.aesthetic.AestheticCardView#onDetachedFromWindow()V

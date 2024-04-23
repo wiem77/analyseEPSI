@@ -1,3 +1,1 @@
-com.afollestad.aesthetic.TintHelper#setTint(LCheckBox;IZ)V
-null
-com.afollestad.aesthetic.TintHelper#createTintedDrawable(LDrawable;LColorStateList;)LDrawable;
+com.afollestad.aesthetic.TintHelper#setTint(LProgressBar;IZ)V

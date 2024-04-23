@@ -28,14 +28,15 @@ internal class MediaPlayerPlayback(context: Context) : LocalPlayback(context), M
     private var isFadingUp: Boolean = false
     private var fadeAnimator: ValueAnimator? = null
 
-    override val isPlaying: Boolean
-        get() = synchronized(this) {
-            if (!isInitialized || isFadingDown) {
-                return false
-            } else {
-                return currentMediaPlayer?.isPlaying ?: false || isFadingUp
-            }
+ override val isPlaying: Boolean
+    get() = synchronized(this) {
+        // Uncovered code
+        return if (!isInitialized || isFadingDown) {
+            false
+        } else {
+            currentMediaPlayer?.isPlaying ?: false || isFadingUp
         }
+    }
 
     override val duration: Long
         get() = synchronized(this) {
