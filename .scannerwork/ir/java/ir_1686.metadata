@@ -1,1 +1,1 @@
-com.simplecity.amp_library.model.Song#getGenre(LContext;)LSingle;
+com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#moveItem(II)V

@@ -1,1 +1,3 @@
-com.simplecityapps.recycler_adapter.adapter.CompletionListUpdateCallbackAdapter#onRemoved(II)V
+com.simplecity.amp_library.ui.views.FavoriteActionBarView#onAttachedToWindow()V
+com.afollestad.aesthetic.Aesthetic#get(LContext;)Lcom/afollestad/aesthetic/Aesthetic;
+java.lang.String#equals(Ljava/lang/Object;)Z

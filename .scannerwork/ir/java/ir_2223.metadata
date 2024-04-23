@@ -1,2 +1,1 @@
-com.simplecity.amp_library.androidauto.PackageValidator#<init>(LContext;)V
-com.simplecity.amp_library.androidauto.PackageValidator#readValidCertificates(LXmlResourceParser;)Ljava/util/Map;
+com.afollestad.aesthetic.AestheticTextInputEditText#init(LContext;LAttributeSet;)V

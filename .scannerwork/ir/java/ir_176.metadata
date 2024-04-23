@@ -1,3 +1,2 @@
-android.support.design.widget.CustomCollapsingToolbarLayout#<init>(LContext;)V
-==
-<init> android.support.design.widget.CustomCollapsingToolbarLayout#<init>(LContext;LAttributeSet;)V
+com.afollestad.aesthetic.AestheticCheckBox#onAttachedToWindow()V
+null

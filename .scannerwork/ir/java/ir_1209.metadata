@@ -1,3 +1,4 @@
-com.afollestad.aesthetic.Aesthetic#colorNavigationBarRes(I)Lcom/afollestad/aesthetic/Aesthetic;
-==
-colorNavigationBar com.afollestad.aesthetic.Aesthetic#colorNavigationBar(I)Lcom/afollestad/aesthetic/Aesthetic;
+com.afollestad.aesthetic.Aesthetic#colorWindowBackground()LObservable;
+com.afollestad.aesthetic.Aesthetic#key(LContext;)Ljava/lang/String;
+com.afollestad.aesthetic.Util#resolveColor(LContext;I)I
+java.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;

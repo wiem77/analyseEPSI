@@ -1,1 +1,2 @@
-com.afollestad.aesthetic.ViewUtil#getObservableForResId(LContext;ILObservable;)LObservable;
+com.simplecity.amp_library.ui.views.LockActionBarView#onAttachedToWindow()V
+java.lang.String#equals(Ljava/lang/Object;)Z

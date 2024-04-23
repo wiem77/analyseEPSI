@@ -1,1 +1,3 @@
-com.simplecity.amp_library.sql.providers.CustomArtworkContentProvider#getType(LUri;)Ljava/lang/String;
+com.simplecity.amp_library.ui.screens.qcircle.QCircleActivity#onServiceConnected(LComponentName;LIBinder;)V
+==
+updateTrackInfo com.simplecity.amp_library.ui.screens.qcircle.QCircleActivity#updateTrackInfo()V

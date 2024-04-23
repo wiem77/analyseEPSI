@@ -1,1 +1,2 @@
-com.simplecity.amp_library.model.TagUpdate#instance-init#
+com.simplecity.amp_library.sql.legacy.WhitelistFolder#hashCode()I
+java.lang.String#hashCode()I

@@ -1,3 +1,5 @@
-com.simplecity.amp_library.ui.views.SnowfallView#removeSnow()V
+com.simplecity.amp_library.ui.views.SnowfallView#letItSnow(LAnalyticsManager;)V
+com.simplecity.amp_library.ui.views.SnowfallView#fetchSnowConfig(LAnalyticsManager;)V
 ==
-size java.util.List#size()I
+isEmpty java.util.List#isEmpty()Z
+nextFloat java.util.Random#nextFloat()F

@@ -1,3 +1,1 @@
-com.afollestad.aesthetic.EdgeGlowUtil#invalidateViewPagerFields()V
-java.lang.reflect.Field#setAccessible(Z)V
-java.lang.reflect.Field#getName()Ljava/lang/String;
+com.afollestad.aesthetic.EdgeGlowUtil#<init>()V

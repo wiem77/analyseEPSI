@@ -1,1 +1,3 @@
-com.simplecity.amp_library.sql.databases.BlacklistWhitelistDbOpenHelper#<init>(LContext;)V
+com.afollestad.aesthetic.AestheticSwitch#onAttachedToWindow()V
+com.afollestad.aesthetic.Rx#onErrorLogAndRethrow()LConsumer;
+com.afollestad.aesthetic.Rx#distinctToMainThread()LObservableTransformer;

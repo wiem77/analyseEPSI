@@ -1,1 +1,1 @@
-com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#addItems(Ljava/util/List;)V
+com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#getItemCount()I

@@ -1,1 +1,1 @@
-com.simplecity.amp_library.services.DashClockService#onInitialize(Z)V
+com.simplecityapps.recycler_adapter.recyclerview.RecyclerListener#onViewRecycled(LRecyclerView/ViewHolder;)V

@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.modelviews.SearchHeaderView#bindView(Lcom/simplecity/amp_library/ui/modelviews/SearchHeaderView$ViewHolder;)V
+com.simplecity.amp_library.glide.utils.CustomAppWidgetTarget#onResourceReady(LBitmap;LGlideAnimation;)V
+com.simplecity.amp_library.glide.utils.CustomAppWidgetTarget#update()V

@@ -1,2 +1,3 @@
-com.simplecity.amp_library.model.SuggestedHeader#hashCode()I
-java.lang.String#hashCode()I
+com.simplecity.amp_library.saf.SafManager#getWriteableDocumentFile(Ljava/io/File;)LDocumentFile;
+==
+getDocumentFile com.simplecity.amp_library.saf.SafManager#getDocumentFile(Ljava/io/File;)LDocumentFile;

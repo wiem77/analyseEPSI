@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.screens.qcircle.QCircleActivity#setPauseButtonImage()V
+com.simplecity.amp_library.ui.screens.qcircle.QCircleActivity#registerIntentReceiver()V
+null

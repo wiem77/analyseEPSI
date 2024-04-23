@@ -1,4 +1,4 @@
-android.support.design.widget.CustomCollapsingToolbarLayout#setContentScrimColor(I)V
-null
+android.support.design.widget.CustomCollapsingToolbarLayout#setScrimsShown(ZZ)V
+android.support.design.widget.CustomCollapsingToolbarLayout#animateScrim(I)V
 ==
-setContentScrim android.support.design.widget.CustomCollapsingToolbarLayout#setContentScrim(LDrawable;)V
+setScrimAlpha android.support.design.widget.CustomCollapsingToolbarLayout#setScrimAlpha(I)V

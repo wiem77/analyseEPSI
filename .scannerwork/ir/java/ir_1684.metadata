@@ -1,4 +1,3 @@
-com.simplecity.amp_library.model.Song#<init>(LCursor;)V
-com.simplecity.amp_library.model.Song#setArtworkKey()V
+com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#removeItem(I)LViewModel;
 ==
-setSortKey com.simplecity.amp_library.model.Song#setSortKey()V
+getItemCount com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#getItemCount()I

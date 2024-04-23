@@ -1,3 +1,4 @@
-com.simplecity.amp_library.sql.sqlbrite.QueryToOptionalOperator#apply(LObserver;)LObserver;
+com.simplecity.amp_library.glide.utils.BitmapAndSizeDecoder#<init>(LContext;)V
 null
-com.simplecity.amp_library.sql.sqlbrite.QueryToOptionalOperator$MappingObserver#instance-init#
+==
+<init> com.simplecity.amp_library.glide.utils.BitmapAndSizeDecoder#<init>(LContext;LResourceDecoder;)V

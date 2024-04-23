@@ -1,2 +1,5 @@
-com.simplecity.amp_library.androidauto.PackageValidator#isPlatformSigned(LContext;Ljava/lang/String;)Z
-com.simplecity.amp_library.androidauto.PackageValidator#getPackageInfo(LContext;Ljava/lang/String;)LPackageInfo;
+com.afollestad.aesthetic.AestheticTextInputEditText#onAttachedToWindow()V
+null
+com.afollestad.aesthetic.ViewHintTextColorAction#create(LTextView;)Lcom/afollestad/aesthetic/ViewHintTextColorAction;
+com.afollestad.aesthetic.Rx#onErrorLogAndRethrow()LConsumer;
+com.afollestad.aesthetic.Rx#distinctToMainThread()LObservableTransformer;

@@ -1,1 +1,4 @@
-com.afollestad.aesthetic.AestheticActivity#<init>()V
+com.simplecity.amp_library.glide.utils.BitmapAndSize#equals(Ljava/lang/Object;)Z
+java.lang.Object#getClass()Ljava/lang/Class;
+==
+equals com.simplecity.amp_library.glide.utils.Size#equals(Ljava/lang/Object;)Z

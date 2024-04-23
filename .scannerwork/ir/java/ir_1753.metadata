@@ -1,8 +1,3 @@
-com.simplecity.amp_library.services.Equalizer#getZeroedBandsString(I)Ljava/lang/String;
-java.lang.StringBuilder#instance-init#
-java.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;
-java.lang.StringBuilder#<init>()V
-java.lang.StringBuilder#deleteCharAt(I)Ljava/lang/StringBuilder;
-java.lang.StringBuilder#toString()Ljava/lang/String;
-==
-length java.lang.AbstractStringBuilder#length()I
+com.simplecity.amp_library.ui.screens.tagger.CheckDocumentPermissionsTask#doInBackground([Ljava/lang/Void;)Ljava/lang/Boolean;
+com.simplecity.amp_library.ui.screens.tagger.TaggerUtils#requiresPermission(LContext;Ljava/util/List;)Z
+com.simplecity.amp_library.ui.screens.tagger.TaggerUtils#hasDocumentTreePermission(LContext;LSettingsManager;Ljava/util/List;Ljava/util/List;)Z

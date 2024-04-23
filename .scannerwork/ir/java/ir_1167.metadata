@@ -1,2 +1,1 @@
-com.afollestad.aesthetic.Aesthetic#<init>(LContext;)V
-null
+com.simplecity.amp_library.utils.PermissionUtils#simplePermissionRequest(Lcom/simplecity/amp_library/utils/PermissionUtils$PermissionCallback;[Ljava/lang/String;)V

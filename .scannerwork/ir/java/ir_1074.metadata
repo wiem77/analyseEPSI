@@ -1,3 +1,2 @@
-com.simplecity.amp_library.utils.ShuttleUtils#getShuttleWebIntent(Ljava/lang/String;)LIntent;
-null
-com.simplecity.amp_library.utils.ShuttleUtils#isAmazonBuild()Z
+com.simplecity.amp_library.ui.modelviews.SongView#areContentsEqual(Ljava/lang/Object;)Z
+java.util.Arrays#equals([C[C)Z

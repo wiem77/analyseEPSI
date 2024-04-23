@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.screens.main.MainController#lockDrawer()V
+com.simplecity.amp_library.ui.screens.main.MainController#onResume()V
+null

@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.screens.qcircle.QCircleActivity#onDestroy()V
+com.simplecity.amp_library.model.Genre#hashCode()I
+java.lang.String#hashCode()I

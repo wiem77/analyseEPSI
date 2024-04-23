@@ -1,4 +1,3 @@
-com.simplecity.amp_library.model.Song#getAlbumArtist()LAlbumArtist;
-null
+com.simplecity.amp_library.model.Song#getSampleRateLabel(LContext;)Ljava/lang/String;
 ==
-getAlbum com.simplecity.amp_library.model.Song#getAlbum()LAlbum;
+getTagInfo com.simplecity.amp_library.model.Song#getTagInfo()LTagInfo;

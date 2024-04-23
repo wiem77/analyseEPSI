@@ -1,4 +1,2 @@
-com.simplecity.amp_library.glide.utils.BitmapAndSizeDecoder#<init>(LContext;)V
+com.simplecity.amp_library.ui.views.multisheet.CustomMultiSheetView#<init>(LContext;LAttributeSet;)V
 null
-==
-<init> com.simplecity.amp_library.glide.utils.BitmapAndSizeDecoder#<init>(LContext;LResourceDecoder;)V

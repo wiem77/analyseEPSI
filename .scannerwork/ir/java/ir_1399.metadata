@@ -1,1 +1,1 @@
-com.simplecity.amp_library.sql.legacy.WhitelistFolder#<init>(LCursor;)V
+com.afollestad.aesthetic.Util#isColorLight(I)Z

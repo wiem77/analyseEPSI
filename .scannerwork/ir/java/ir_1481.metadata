@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.views.PlayPauseView#setColor(I)V
+com.afollestad.aesthetic.AestheticToolbar#onAttachedToWindow()V
+com.afollestad.aesthetic.Aesthetic#get(LContext;)Lcom/afollestad/aesthetic/Aesthetic;

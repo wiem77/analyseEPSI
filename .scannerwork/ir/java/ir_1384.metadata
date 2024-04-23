@@ -1,1 +1,1 @@
-com.afollestad.aesthetic.Util#setStatusBarColorCompat(LAppCompatActivity;I)V
+com.simplecity.amp_library.glide.fetcher.FolderFetcher#getStream()Ljava/io/InputStream;

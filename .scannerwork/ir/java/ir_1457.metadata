@@ -1,1 +1,1 @@
-com.simplecity.amp_library.ui.modelviews.BreadcrumbsView#setBreadcrumbsPath(Ljava/lang/String;)V
+com.simplecityapps.recycler_adapter.adapter.CompletionListUpdateCallbackAdapter#onComplete()V

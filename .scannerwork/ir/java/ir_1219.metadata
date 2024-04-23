@@ -1,1 +1,1 @@
-com.afollestad.aesthetic.Aesthetic#navigationViewMode()LObservable;
+com.afollestad.aesthetic.Aesthetic#lightStatusBarMode()LObservable;

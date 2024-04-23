@@ -1,5 +1,3 @@
-com.simplecity.amp_library.ui.screens.folders.FolderFragment#consumeBackPress()Z
+com.simplecity.amp_library.ui.screens.folders.FolderFragment#onOptionsItemSelected(LMenuItem;)Z
 ==
-getParentFile java.io.File#getParentFile()Ljava/io/File;
-compareTo java.io.File#compareTo(Ljava/io/File;)I
-changeDir com.simplecity.amp_library.ui.screens.folders.FolderFragment#changeDir(Ljava/io/File;)V
+onMenuItemClick com.simplecity.amp_library.ui.screens.folders.FolderFragment#onMenuItemClick(LMenuItem;)Z

@@ -1,7 +1,8 @@
-com.simplecity.amp_library.utils.StringUtils#getJaroWinklerSimilarity(Ljava/lang/String;Ljava/lang/String;)D
-java.text.Normalizer#normalize(Ljava/lang/CharSequence;Ljava/text/Normalizer$Form;)Ljava/lang/String;
-java.lang.String#length()I
-java.lang.Math#min(DD)D
-java.lang.Math#round(D)J
-com.simplecity.amp_library.utils.StringUtils#matches(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)[I
-java.lang.String#toLowerCase()Ljava/lang/String;
+com.simplecity.amp_library.utils.StringUtils#makeSongsLabel(LContext;I)Ljava/lang/String;
+java.lang.StringBuilder#instance-init#
+java.util.Formatter#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/util/Formatter;
+java.lang.StringBuilder#<init>()V
+java.lang.StringBuilder#append(Ljava/lang/CharSequence;)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#toString()Ljava/lang/String;
+==
+setLength java.lang.AbstractStringBuilder#setLength(I)V

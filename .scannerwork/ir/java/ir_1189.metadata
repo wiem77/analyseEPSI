@@ -1,1 +1,1 @@
-com.afollestad.aesthetic.Aesthetic#textColorPrimary(I)Lcom/afollestad/aesthetic/Aesthetic;
+com.afollestad.aesthetic.Aesthetic#colorPrimaryDark(I)Lcom/afollestad/aesthetic/Aesthetic;

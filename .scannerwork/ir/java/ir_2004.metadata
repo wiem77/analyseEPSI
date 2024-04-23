@@ -1,2 +1,4 @@
-com.simplecity.amp_library.ui.adapters.RobotoSpinnerAdapter#<init>(LContext;I[Ljava/lang/Object;)V
-java.util.Arrays#asList([Ljava/lang/Object;)Ljava/util/List;
+com.simplecity.amp_library.utils.MediaButtonIntentReceiver#handleIntent(LContext;LIntent;LPlaybackSettingsManager;)V
+com.simplecity.amp_library.utils.MediaButtonIntentReceiver#releaseWakeLockIfHandlerIdle()V
+com.simplecity.amp_library.utils.MediaButtonIntentReceiver#startService(LContext;Ljava/lang/String;)V
+com.simplecity.amp_library.utils.MediaButtonIntentReceiver#acquireWakeLockAndSendMessage(LContext;LMessage;J)V

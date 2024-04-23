@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.modelviews.SearchHeaderView#<init>(LHeader;)V
+com.simplecity.amp_library.model.Artist#hashCode()I
+java.lang.String#hashCode()I

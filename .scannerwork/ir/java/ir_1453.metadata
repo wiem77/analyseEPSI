@@ -1,2 +1,1 @@
-com.simplecity.amp_library.glide.preloader.RecyclerViewPreloader#<init>(LPreloadModelProvider;LPreloadSizeProvider;I)V
-null
+com.simplecityapps.recycler_adapter.adapter.CompletionListUpdateCallbackAdapter#onInserted(II)V

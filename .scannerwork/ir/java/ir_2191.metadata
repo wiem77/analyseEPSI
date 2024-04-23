@@ -1,3 +1,2 @@
-test.com.androidnavigation.fragment.BaseNavigationController#addRootFragment()V
-==
-getRootViewControllerInfo test.com.androidnavigation.fragment.BaseNavigationController#getRootViewControllerInfo()LFragmentInfo;
+com.simplecity.amp_library.utils.TimeLogger#logInterval(Ljava/lang/String;Ljava/lang/String;)V
+java.lang.System#currentTimeMillis()J

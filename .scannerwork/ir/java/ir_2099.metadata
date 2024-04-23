@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.views.StatusBarView#instance-init#
+com.simplecity.amp_library.sql.sqlbrite.SqlBriteUtils#wrapContentProvider(LContext;)LBriteContentResolver;
+null

@@ -1,3 +1,9 @@
-com.afollestad.aesthetic.Aesthetic#isDark()LObservable;
-com.afollestad.aesthetic.Aesthetic#key(LContext;)Ljava/lang/String;
-java.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;
+com.afollestad.aesthetic.Aesthetic#resume(LAppCompatActivity;)V
+null
+==
+colorWindowBackground com.afollestad.aesthetic.Aesthetic#colorWindowBackground()LObservable;
+lightStatusBarMode com.afollestad.aesthetic.Aesthetic#lightStatusBarMode()LObservable;
+colorNavigationBar com.afollestad.aesthetic.Aesthetic#colorNavigationBar()LObservable;
+colorPrimary com.afollestad.aesthetic.Aesthetic#colorPrimary()LObservable;
+colorStatusBar com.afollestad.aesthetic.Aesthetic#colorStatusBar()LObservable;
+activityTheme com.afollestad.aesthetic.Aesthetic#activityTheme()LObservable;

@@ -1,3 +1,1 @@
-com.simplecity.amp_library.ui.views.SnowfallView#isSnowing()Z
-==
-isEmpty java.util.List#isEmpty()Z
+com.simplecity.amp_library.http.lastfm.LastFmResult#<init>()V

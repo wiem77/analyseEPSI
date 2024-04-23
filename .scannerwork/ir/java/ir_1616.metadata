@@ -1,2 +1,1 @@
-com.afollestad.aesthetic.AestheticDrawerLayout#setDrawerListener(LDrawerListener;)V
-com.afollestad.aesthetic.AestheticDrawerLayout#invalidateColor(LActiveInactiveColors;)V
+com.afollestad.aesthetic.AestheticDrawerLayout#<init>(LContext;LAttributeSet;)V

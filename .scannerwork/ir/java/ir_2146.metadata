@@ -1,3 +1,4 @@
-com.simplecity.amp_library.glide.utils.BitmapAndSizeResource#<init>(LBitmap;LSize;LBitmapPool;)V
-java.lang.NullPointerException#<init>(Ljava/lang/String;)V
-java.lang.NullPointerException#instance-init#
+com.simplecity.amp_library.ui.screens.drawer.DrawerAdapter#onBindParentViewHolder(LParentViewHolder;ILParent;)V
+==
+bindView com.simplecity.amp_library.ui.screens.drawer.DrawerDivider#bindView()V
+getParentViewType com.simplecity.amp_library.ui.screens.drawer.DrawerAdapter#getParentViewType(I)I

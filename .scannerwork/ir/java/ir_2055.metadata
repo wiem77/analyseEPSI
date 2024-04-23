@@ -1,1 +1,3 @@
-com.afollestad.aesthetic.Rx#onErrorLogAndRethrow()LConsumer;
+com.simplecity.amp_library.ui.common.BaseActivity#onServiceDisconnected(LComponentName;)V
+==
+unbindService com.simplecity.amp_library.ui.common.BaseActivity#unbindService()V

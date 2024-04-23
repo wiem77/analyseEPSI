@@ -1,1 +1,1 @@
-com.simplecity.amp_library.sql.databases.BlacklistWhitelistDbOpenHelper#onCreate(LSQLiteDatabase;)V
+com.afollestad.aesthetic.AestheticSwitch#onDetachedFromWindow()V

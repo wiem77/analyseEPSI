@@ -1,1 +1,2 @@
-com.simplecity.amp_library.model.SuggestedHeader#<init>(Ljava/lang/String;Ljava/lang/String;LPlaylist;)V
+com.simplecity.amp_library.saf.SafManager#requiresPermission(Ljava/io/File;)Z
+com.simplecity.amp_library.saf.SafManager#getExtSdCardFolder(Ljava/io/File;)Ljava/lang/String;

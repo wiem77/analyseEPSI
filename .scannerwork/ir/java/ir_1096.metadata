@@ -1,1 +1,1 @@
-com.simplecity.amp_library.ui.views.ContextualToolbar#<init>(LContext;)V
+com.afollestad.aesthetic.AestheticFab#init(LContext;LAttributeSet;)V

@@ -1,1 +1,1 @@
-com.simplecity.amp_library.glide.fetcher.TagFetcher#getStream()Ljava/io/InputStream;
+com.simplecity.amp_library.glide.palette.ColorSetResource#get()LColorSet;

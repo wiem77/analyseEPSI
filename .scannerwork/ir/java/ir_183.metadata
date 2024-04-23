@@ -1,1 +1,2 @@
-android.support.design.widget.CustomCollapsingToolbarLayout#onWindowInsetChanged(LWindowInsetsCompat;)LWindowInsetsCompat;
+android.support.design.widget.CustomCollapsingToolbarLayout#getViewOffsetHelper(LView;)LViewOffsetHelper;
+null

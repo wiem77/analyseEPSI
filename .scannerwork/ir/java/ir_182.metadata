@@ -1,1 +1,1 @@
-android.support.design.widget.CustomCollapsingToolbarLayout#onDetachedFromWindow()V
+android.support.design.widget.CustomCollapsingToolbarLayout#getHeightWithMargins(LView;)I

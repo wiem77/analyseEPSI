@@ -1,1 +1,3 @@
-com.simplecity.amp_library.ui.screens.tagger.TaggerUtils#<init>()V
+com.simplecity.amp_library.services.Equalizer#release()V
+==
+releaseEffects com.simplecity.amp_library.services.Equalizer#releaseEffects()V

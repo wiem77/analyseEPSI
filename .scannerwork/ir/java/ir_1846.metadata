@@ -1,3 +1,1 @@
-com.simplecity.amp_library.playback.PlaybackManager#destroy()V
-==
-getAudioSessionId com.simplecity.amp_library.playback.PlaybackManager#getAudioSessionId()I
+com.simplecity.amp_library.playback.PlaybackManager#load(Lcom/simplecity/amp_library/model/Song;Ljava/lang/Boolean;JLFunction1;)V

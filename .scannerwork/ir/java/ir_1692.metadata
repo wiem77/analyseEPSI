@@ -1,2 +1,2 @@
-com.simplecity.amp_library.model.Song#getElapsedTime()J
-java.lang.System#currentTimeMillis()J
+com.simplecity.amp_library.model.Song#getGenre(LContext;)LSingle;
+com.simplecity.amp_library.model.Genre#getQuery()LQuery;

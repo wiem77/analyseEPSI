@@ -1,2 +1,1 @@
-com.simplecity.amp_library.utils.sorting.SortManager#setAlbumsSortOrder(I)V
 com.simplecity.amp_library.utils.sorting.SortManager#setSortOrder(Ljava/lang/String;I)V

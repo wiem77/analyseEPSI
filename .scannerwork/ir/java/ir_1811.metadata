@@ -1,2 +1,4 @@
-com.simplecity.amp_library.saf.SafManager#requiresPermission(Ljava/io/File;)Z
-com.simplecity.amp_library.saf.SafManager#getExtSdCardFolder(Ljava/io/File;)Ljava/lang/String;
+com.simplecity.amp_library.ui.modelviews.HorizontalRecyclerView#equals(Ljava/lang/Object;)Z
+java.lang.Object#getClass()Ljava/lang/Class;
+==
+equals java.lang.Object#equals(Ljava/lang/Object;)Z

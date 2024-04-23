@@ -1,3 +1,2 @@
-com.afollestad.aesthetic.ViewBackgroundSubscriber#create(LView;)Lcom/afollestad/aesthetic/ViewBackgroundSubscriber;
-com.afollestad.aesthetic.ViewBackgroundSubscriber#instance-init#
-com.afollestad.aesthetic.ViewBackgroundSubscriber#<init>(LView;)V
+com.simplecity.amp_library.ui.views.AestheticTintedImageView#getColorObservable()LObservable;
+com.afollestad.aesthetic.Aesthetic#get(LContext;)Lcom/afollestad/aesthetic/Aesthetic;

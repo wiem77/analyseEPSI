@@ -1,1 +1,1 @@
-com.simplecity.amp_library.ui.views.CircleView#onDraw(LCanvas;)V
+com.afollestad.aesthetic.AestheticRecyclerView#onAttachedToWindow()V

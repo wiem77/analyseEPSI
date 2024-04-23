@@ -1,3 +1,1 @@
-com.simplecity.amp_library.ui.screens.qcircle.QCircleActivity#initButtons()V
-==
-setPauseButtonImage com.simplecity.amp_library.ui.screens.qcircle.QCircleActivity#setPauseButtonImage()V
+com.simplecity.amp_library.ui.screens.qcircle.QCircleActivity#onStop()V

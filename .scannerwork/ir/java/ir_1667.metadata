@@ -1,1 +1,1 @@
-com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#getItemViewType(I)I
+com.simplecity.amp_library.ui.widgets.WidgetConfigureActivityLarge#getLayoutIdString()Ljava/lang/String;

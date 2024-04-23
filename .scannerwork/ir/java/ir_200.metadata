@@ -1,3 +1,2 @@
-android.support.design.widget.CustomCollapsingToolbarLayout#animateScrim(I)V
-null
-android.support.design.widget.CustomCollapsingToolbarLayout#ensureToolbar()V
+android.support.design.widget.CustomCollapsingToolbarLayout#setTitleEnabled(Z)V
+android.support.design.widget.CustomCollapsingToolbarLayout#updateDummyView()V

@@ -1,1 +1,3 @@
-com.afollestad.aesthetic.ViewBackgroundSubscriber#onComplete()V
+com.simplecity.amp_library.ui.views.AestheticTintedImageView#onAttachedToWindow()V
+==
+getColorObservable com.simplecity.amp_library.ui.views.AestheticTintedImageView#getColorObservable()LObservable;

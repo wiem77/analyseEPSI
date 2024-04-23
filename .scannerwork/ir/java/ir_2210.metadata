@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.widgets.WidgetConfigureActivitySmall#getUpdateCommandString()Ljava/lang/String;
+com.jp.wasabeef.glide.transformations.CropSquareTransformation#transform(LResource;II)LResource;
+java.lang.Math#min(II)I

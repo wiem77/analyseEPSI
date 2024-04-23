@@ -1,1 +1,2 @@
-com.simplecity.amp_library.model.Song#getMediaStoreArtwork(LContext;)Ljava/io/InputStream;
+com.simplecity.amp_library.model.Song#equals(Ljava/lang/Object;)Z
+java.lang.Object#getClass()Ljava/lang/Class;

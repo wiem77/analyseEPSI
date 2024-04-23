@@ -1,1 +1,1 @@
-com.simplecityapps.recycler_adapter.adapter.CompletionListUpdateCallbackAdapter#onChanged(IILjava/lang/Object;)V
+com.simplecity.amp_library.ui.views.FavoriteActionBarView#invalidateColors(LBgIconColorState;)V

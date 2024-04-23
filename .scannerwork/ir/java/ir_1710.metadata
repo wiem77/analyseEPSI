@@ -1,1 +1,1 @@
-com.simplecity.amp_library.model.Song#getFolderArtwork()Ljava/io/InputStream;
+com.simplecity.amp_library.model.Song#hashCode()I

@@ -1,2 +1,2 @@
-com.afollestad.aesthetic.Util#resolveColor(LContext;I)I
-com.afollestad.aesthetic.Util#resolveColor(LContext;II)I
+com.afollestad.aesthetic.Util#setInflaterFactory(LLayoutInflater;)V
+null

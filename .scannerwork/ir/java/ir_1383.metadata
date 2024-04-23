@@ -1,1 +1,1 @@
-com.afollestad.aesthetic.Util#setBackgroundCompat(LView;LDrawable;)V
+com.simplecity.amp_library.glide.fetcher.FolderFetcher#getTag()Ljava/lang/String;

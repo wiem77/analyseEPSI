@@ -1,2 +1,1 @@
-android.support.design.widget.CustomCollapsingToolbarLayout#instance-init#
-null
+com.afollestad.aesthetic.AestheticCheckBox#invalidateColors(LColorIsDarkState;)V

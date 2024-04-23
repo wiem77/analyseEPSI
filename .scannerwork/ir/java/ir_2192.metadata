@@ -1,1 +1,2 @@
-test.com.androidnavigation.fragment.BaseNavigationController#onResume()V
+test.com.androidnavigation.fragment.BaseNavigationController#instance-init#
+java.util.ArrayList#<init>()V

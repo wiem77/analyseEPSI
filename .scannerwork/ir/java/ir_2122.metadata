@@ -1,1 +1,3 @@
-com.simplecity.amp_library.utils.color.ArgbEvaluator#instance-init#
+com.simplecity.amp_library.ui.modelviews.SearchHeaderView#bindView(Lcom/simplecity/amp_library/ui/modelviews/SearchHeaderView$ViewHolder;)V
+==
+bindView com.simplecityapps.recycler_adapter.model.BaseViewModel#bindView(LBaseViewHolder;)V

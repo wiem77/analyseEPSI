@@ -1,1 +1,1 @@
-com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#moveItem(II)V
+com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#logDiffResult(LDiffUtil/DiffResult;)V

@@ -1,2 +1,1 @@
-com.simplecity.amp_library.ui.views.PlayPauseView#onMeasure(II)V
-java.lang.Math#min(II)I
+com.afollestad.aesthetic.AestheticToolbar#setNavigationIcon(LDrawable;I)V

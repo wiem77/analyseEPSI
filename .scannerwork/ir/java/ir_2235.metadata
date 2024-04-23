@@ -1,3 +1,4 @@
-com.simplecityapps.recycler_adapter.model.BaseViewModel#getViewType()I
+com.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity#onServiceConnected(LComponentName;LIBinder;)V
+com.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity#searchAndPlaySongs()V
 ==
-getLayoutResId com.simplecityapps.recycler_adapter.model.BaseViewModel#getLayoutResId()I
+onServiceConnected com.simplecity.amp_library.ui.common.BaseActivity#onServiceConnected(LComponentName;LIBinder;)V

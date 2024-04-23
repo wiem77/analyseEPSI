@@ -1,3 +1,2 @@
-com.simplecity.amp_library.ui.screens.main.MainActivity#handlePlaybackRequest(LIntent;)V
-null
-com.simplecity.amp_library.ui.screens.main.MainActivity#parseIdFromIntent(LIntent;Ljava/lang/String;Ljava/lang/String;)J
+com.simplecity.amp_library.ui.screens.main.MainActivity#onServiceConnected(LComponentName;LIBinder;)V
+com.simplecity.amp_library.ui.screens.main.MainActivity#handlePendingPlaybackRequest()V

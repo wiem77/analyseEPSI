@@ -1,3 +1,1 @@
-com.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager#canShowMiniPlayer()Z
-==
-isEmpty java.util.List#isEmpty()Z
+com.simplecity.amp_library.playback.PlaybackMonitor#instance-init#

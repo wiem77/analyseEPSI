@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.screens.album.detail.AlbumsDetailFragmentModule#<init>()V
+com.afollestad.aesthetic.AestheticListView#onAttachedToWindow()V
+com.afollestad.aesthetic.Aesthetic#get(LContext;)Lcom/afollestad/aesthetic/Aesthetic;

@@ -1,1 +1,2 @@
-com.simplecity.amp_library.utils.ColorUtils#instance-init#
+com.afollestad.aesthetic.AestheticSwitch#<init>(LContext;LAttributeSet;)V
+com.afollestad.aesthetic.AestheticSwitch#init(LContext;LAttributeSet;)V

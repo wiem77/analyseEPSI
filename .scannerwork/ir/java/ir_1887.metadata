@@ -1,1 +1,2 @@
-com.simplecity.amp_library.utils.Operators#albumShuffleSongs(Ljava/util/List;LSortManager;)Ljava/util/List;
+com.simplecity.amp_library.utils.SleepTimer#getDialog(LContext;LUnsafeAction;LUnsafeAction;)LMaterialDialog;
+null

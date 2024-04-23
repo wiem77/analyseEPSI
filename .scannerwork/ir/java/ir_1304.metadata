@@ -1,3 +1,2 @@
-com.simplecity.amp_library.ui.screens.main.LibraryController#onPlaylistClicked(LPlaylist;)V
-==
-pushDetailFragment com.simplecity.amp_library.ui.screens.main.LibraryController#pushDetailFragment(LFragment;LView;)V
+com.simplecity.amp_library.ui.screens.main.LibraryController#onOptionsItemSelected(LMenuItem;)Z
+com.simplecity.amp_library.ui.screens.main.LibraryController#openSearch()V

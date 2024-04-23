@@ -1,3 +1,5 @@
-com.simplecity.amp_library.model.Song#getSortKey()Ljava/lang/String;
+com.simplecity.amp_library.model.Song#getDiscNumberLabel()Ljava/lang/String;
+java.lang.String#valueOf([C)Ljava/lang/String;
+java.lang.String#valueOf(I)Ljava/lang/String;
 ==
-setSortKey com.simplecity.amp_library.model.Song#setSortKey()V
+getTagInfo com.simplecity.amp_library.model.Song#getTagInfo()LTagInfo;

@@ -1,2 +1,1 @@
-com.simplecity.amp_library.sql.legacy.WhitelistFolder#hashCode()I
-java.lang.String#hashCode()I
+com.afollestad.aesthetic.Util#setLightStatusBarCompat(LAppCompatActivity;Z)V

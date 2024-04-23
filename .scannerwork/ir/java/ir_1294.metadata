@@ -1,2 +1,2 @@
-com.simplecity.amp_library.ui.screens.main.LibraryController#onResume()V
+com.simplecity.amp_library.ui.screens.main.LibraryController#instance-init#
 null

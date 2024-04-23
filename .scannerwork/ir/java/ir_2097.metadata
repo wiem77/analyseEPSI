@@ -1,3 +1,1 @@
-com.simplecity.amp_library.sql.sqlbrite.SqlBriteUtils#createObservableList(LContext;LFunction;LQuery;)LObservable;
-null
-com.simplecity.amp_library.sql.sqlbrite.SqlBriteUtils#createObservable(LContext;LQuery;)LObservable;
+com.simplecity.amp_library.sql.sqlbrite.SqlBriteUtils#instance-init#

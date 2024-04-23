@@ -1,1 +1,4 @@
-com.simplecity.amp_library.utils.color.ArgbEvaluator#getInstance()Lcom/simplecity/amp_library/utils/color/ArgbEvaluator;
+com.simplecity.amp_library.ui.modelviews.SearchHeaderView#equals(Ljava/lang/Object;)Z
+java.lang.Object#getClass()Ljava/lang/Class;
+==
+equals com.simplecity.amp_library.model.Header#equals(Ljava/lang/Object;)Z

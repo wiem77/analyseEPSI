@@ -1,1 +1,2 @@
-com.afollestad.aesthetic.AestheticToolbar#setNavigationIcon(LDrawable;I)V
+com.afollestad.aesthetic.AestheticToolbar#<init>(LContext;LAttributeSet;)V
+com.afollestad.aesthetic.AestheticToolbar#init(LContext;LAttributeSet;)V

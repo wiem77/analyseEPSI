@@ -1,3 +1,2 @@
-com.simplecity.amp_library.utils.ShuttleUtils#openShuttleLink(LActivity;Ljava/lang/String;LPackageManager;)V
-com.simplecity.amp_library.utils.ShuttleUtils#getShuttleStoreIntent(Ljava/lang/String;)LIntent;
-com.simplecity.amp_library.utils.ShuttleUtils#getShuttleWebIntent(Ljava/lang/String;)LIntent;
+com.simplecity.amp_library.ui.modelviews.SongView#equals(Ljava/lang/Object;)Z
+java.lang.Object#getClass()Ljava/lang/Class;

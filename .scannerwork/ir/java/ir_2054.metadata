@@ -1,1 +1,2 @@
-com.afollestad.aesthetic.Rx#<init>()V
+com.simplecity.amp_library.ui.common.BaseActivity#onServiceConnected(LComponentName;LIBinder;)V
+null

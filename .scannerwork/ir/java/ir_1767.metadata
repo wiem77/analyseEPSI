@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.common.PurchasePresenter#<init>()V
+com.simplecity.amp_library.ui.screens.tagger.TaggerUtils#showChooseDocumentDialog(LContext;LMaterialDialog/SingleButtonCallback;Z)V
+null

@@ -1,1 +1,3 @@
-com.simplecity.amp_library.ui.screens.tagger.TaggerTask#setDocumentfiles(Ljava/util/List;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;
+com.simplecity.amp_library.ui.screens.tagger.TaggerTask#instance-init#
+java.util.ArrayList#<init>()V
+java.util.ArrayList#instance-init#

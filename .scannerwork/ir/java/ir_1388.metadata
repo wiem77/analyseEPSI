@@ -1,1 +1,1 @@
-com.afollestad.aesthetic.Util#resolveResId(LContext;LAttributeSet;I)I
+com.afollestad.aesthetic.Util#blendColors(IIF)I

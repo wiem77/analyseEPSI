@@ -1,1 +1,1 @@
-com.simplecityapps.recycler_adapter.recyclerview.RecyclerListener#onViewRecycled(LRecyclerView/ViewHolder;)V
+com.afollestad.aesthetic.AestheticListView#<init>(LContext;LAttributeSet;I)V

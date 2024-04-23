@@ -1,1 +1,1 @@
-com.simplecity.amp_library.playback.PlaybackManager#openEqualizerSession(ZI)V
+com.simplecity.amp_library.playback.PlaybackManager#removeQueueItem(LQueueItem;)V

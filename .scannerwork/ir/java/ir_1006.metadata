@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.views.LockActionBarView#onFinishInflate()V
+com.simplecity.amp_library.ui.views.TextViewDrawableSize#<init>(LContext;)V
+com.simplecity.amp_library.ui.views.TextViewDrawableSize#init(LContext;LAttributeSet;I)V

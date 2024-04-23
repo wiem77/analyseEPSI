@@ -1,5 +1,8 @@
-com.simplecity.amp_library.ui.screens.tagger.TaggerUtils#hasDocumentTreePermission(LContext;LSettingsManager;Ljava/util/List;Ljava/util/List;)Z
-com.simplecity.amp_library.ui.screens.tagger.TaggerUtils#getDocumentTree(LContext;LSettingsManager;)Ljava/lang/String;
-java.io.File#<init>(Ljava/lang/String;)V
-com.simplecity.amp_library.ui.screens.tagger.TaggerUtils#getDocumentFile(LContext;LUri;Ljava/io/File;)LDocumentFile;
-java.io.File#instance-init#
+com.simplecity.amp_library.services.Equalizer#getZeroedBandsString(I)Ljava/lang/String;
+java.lang.StringBuilder#instance-init#
+java.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#<init>()V
+java.lang.StringBuilder#deleteCharAt(I)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#toString()Ljava/lang/String;
+==
+length java.lang.AbstractStringBuilder#length()I

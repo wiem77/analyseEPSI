@@ -1,2 +1,2 @@
-com.afollestad.aesthetic.Aesthetic#textColorSecondaryInverse()LObservable;
+com.afollestad.aesthetic.Aesthetic#textColorSecondary()LObservable;
 com.afollestad.aesthetic.Util#resolveColor(LContext;I)I
